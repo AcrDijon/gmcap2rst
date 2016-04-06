@@ -1,0 +1,189 @@
+Nom	Prénom	Sexe	Numéro	Licence	Type Licence	Naissance	Nom Catégorie	Abbrev. Catégorie	Club	Code Club	Course
+MEO	André	M	1			1961	Master 2	V2			10 km
+HURTEL	Virginie	F	2			1983	Senior	SE			10 km
+DULIO	Ulrick	M	3			1987	Senior	SE			10 km
+LEVOTRE	Christian	M	4			1979	Senior	SE			10 km
+DORMOY	Bruno	M	5			1964	Master 2	V2			10 km
+DUPAS	Stéphane	M	6	1448940	LOISR	1971	Master 1	V1	COUREURS SUR ROUTE COTE D OR	21039	10 km
+TATIGNY	Pascal	M	7			1965	Master 2	V2			10 km
+MATHIEU	Jean	M	8			1949	Master 3	V3			10 km
+SIMON	Alain	M	9			1957	Master 2	V2			10 km
+FOURNIER	Mathieu	M	10			1978	Senior	SE			10 km
+COLOMBI	Daniel	M	11			1957	Master 2	V2			10 km
+MANOHA	Philippe	M	12			1965	Master 2	V2			10 km
+MANOHA	Catherine	F	13	1008685	LOISR	1965	Master 2	V2	ASPTT DIJON ATHLETISME	21032	10 km
+CHERUBINI	Jérôme	M	14			1973	Master 1	V1			10 km
+EUVRARD	Matthieu	M	15			1971	Master 1	V1			10 km
+ALBERT-BRUNET	Natacha	F	16			1981	Senior	SE			10 km
+DICONNE	Dominique	F	17			1975	Master 1	V1			10 km
+MATHIEU	Arnaud	M	18			1981	Senior	SE			10 km
+THOMAS	Gérard	M	19			1953	Master 3	V3			10 km
+DOUARE	Fabrice	M	20	1754724	COMP	1971	Master 1	V1	AC CHENOVE	21005	10 km
+BELGACEM	Salah	M	21	485561	COMP	1969	Master 1	V1	SA AUTUN	71025	10 km
+RACLOT	Lionel	M	22			1972	Master 1	V1			10 km
+ZANINI	Patrick	M	23	547899	COMP	1955	Master 3	V3	COUREURS SUR ROUTE DE COTE D'OR	21039	10 km
+ZANINI	Marie-Paule	F	24	547903	COMP	1963	Master 2	V2	COUREURS SUR ROUTE DE COTE D'OR	21039	10 km
+PATHOUOT	Alicia	F	25			1992	Senior	SE			10 km
+BARBIER	Nadège	F	26			1957	Master 2	V2			10 km
+UXOL	Jean-Louis	M	27			1966	Master 2	V2			10 km
+UXOL	Caroline	F	28			1968	Master 1	V1			10 km
+MASSON	Teddy	M	29			1964	Master 2	V2			10 km
+LETENDU	Aurore	F	30			1980	Senior	SE			10 km
+LIORET	Corinne	F	31			1959	Master 2	V2			10 km
+RENARD	Nadine	F	32			1963	Master 2	V2			10 km
+BERLANGA	Agnès	F	33			1969	Master 1	V1			10 km
+MAGUER	Jean Claude	M	34	1000143	LOISS	1946	Master 4	V4	ACR DIJON		10 km
+BRIOT	Alain	M	35	1857254	LOISR	1946	Master 4	V4	ACR DIJON		10 km
+LINGELSER	Patrick	M	36	936628	LOISR	1956	Master 3	V3	AS BOLOGNE	52008	10 km
+MERME	Georges	M	37			1963	Master 2	V2			10 km
+BACROT	Marie-Odile	F	38			1954	Master 3	V3			10 km
+BONFILS	Catherine	F	39			1949	Master 3	V3			10 km
+FORQUET	Carmen	F	40			1954	Master 3	V3			10 km
+GUENERET	Kristofer	M	41			1987	Senior	SE			10 km
+NIVOIS	Peggy	F	42			1973	Master 1	V1			10 km
+CUSEY	Stéphane	M	43			1976	Master 1	V1			10 km
+ABDELLAOUI	Mohamed	M	44			1946	Master 4	V4			10 km
+VICAIRE	Stéphane	M	45			1978	Senior	SE			10 km
+KEINERKNECHT	Thibaut	M	46			1993	Senior	SE			10 km
+PERRET	Margot	F	47			1992	Senior	SE			10 km
+PERRET	Brigitte	F	48	1242285	LOISR	1961	Master 2	V2	SL ENTENTE CHAUMONT AC	52004	10 km
+BRAHIMI	Kamel	M	49	247671	COMP	1970	Master 1	V1	AC CHENOVE	21005	10 km
+REGNIER	Sébastien	M	50			1979	Senior	SE			10 km
+BAY	CELINE	F	51	1028251	COMP	1976	Master 1	V1	SA AUTUN	71025	10 km
+BAZOT	Yann	M	52			1981	Senior	SE			10 km
+FOUSSET	Didier	M	53			1954	Master 3	V3			10 km
+FOUSSET	Yoann	M	54			1983	Senior	SE			10 km
+BORNEL	Véronique	F	55			1965	Master 2	V2			10 km
+MOREAU	Stéphanie	F	56			1984	Senior	SE			10 km
+MOREAU	Sophie	F	57			1980	Senior	SE			10 km
+HUSY	David	M	58			1969	Master 1	V1	NUITS COURSE A PIED		10 km
+BROCARD	Sybil	F	59			1969	Master 1	V1	NUITS COURSE À PIED		10 km
+DEMIAUTTE	Lydie	F	60			1970	Master 1	V1	NUITS COURSE À PIED		10 km
+SPECK	Denis	M	61			1953	Master 3	V3			10 km
+NIZET	Fabrice	M	62			1970	Master 1	V1			10 km
+MADINIER CHAPPAT	Nathalie	F	63			1965	Master 2	V2			10 km
+MADINIER	Augustin	M	64			1993	Senior	SE			10 km
+MADINIER	Garance	F	65			1999	Cadet	CA			10 km
+JONDEAU	Fabrice	M	66			1980	Senior	SE			10 km
+CACHIER	Aymeric	M	67			1989	Senior	SE			10 km
+ROBIN	Michelle	F	68	399301357	LOISS	1941	Master 4	V4	F.S.C.F SPRTS ET DETENTE		10 km
+GAUTHIER	Emmanuelle	F	69			1977	Senior	SE	ACRAUX AUXONNE		10 km
+HAMELIN	Matthias	M	70			1991	Senior	SE			10 km
+HENRY	Magali	F	71			1974	Master 1	V1			10 km
+PASDELOUP	Guillaume	M	72			1992	Senior	SE			10 km
+ROSSIGNOL	Mylène	F	73			1991	Senior	SE			10 km
+VERY	Sébastien	M	74	A80777C0040660MS3FRA		1985	Senior	SE	CHENÔVE TRIATHLON CLUB		10 km
+ABBAD	Zohra	F	75	1847766		1982	Senior	SE	AC CHENOVE	21005	10 km
+ALAINE	Cyril	M	76			1987	Senior	SE			10 km
+ALISON	Elise	F	77			1977	Senior	SE			10 km
+BAILLE	Thomas	M	78			1987	Senior	SE			10 km
+BATTIN	Daniel	M	79	112382		1957	Master 2	V2	DUC	21008	10 km
+BOQUET	Amélie	F	80			1983	Senior	SE			10 km
+BOUILLOT	Nathalie	F	81			1968	Master 1	V1			10 km
+BOURRUST	Isabelle	F	82			1965	Master 2	V2			10 km
+BOUSARD	Aurélie	F	83			1987	Senior	SE			10 km
+BOUTARFA	Frederic	M	84			1972	Master 1	V1			10 km
+BRAZIER	Patricia	F	85			1968	Master 1	V1			10 km
+BRUN	Bertrand	M	86	1817743		1969	Master 1	V1	COUREURS SUR ROUTE DE CÔTE D'OR (CROCO)		10 km
+BRUN	Frederic	M	87	1795405		1964	Master 2	V2	COUREUR SUR ROUTE COTE D'OR	21039	10 km
+BRUN	Judith	F	88			1992	Senior	SE			10 km
+CHAMBIET	Isabelle	F	89			1971	Master 1	V1			10 km
+CHAMPONNOIS	Francine	F	90			1969	Master 1	V1			10 km
+CHANDIOUX	Régis	M	91			1971	Master 1	V1			10 km
+CHAPON	Jean Bernard	M	92			1966	Master 2	V2	COURIR À SENNECEY		10 km
+CHARIGNON	Dominique	M	93			1957	Master 2	V2			10 km
+CHEVAUCHET	Franck	M	94			1974	Master 1	V1			10 km
+CHEVIGNY	Sandra	F	95			1991	Senior	SE			10 km
+CHOLLET	Yvan	M	96			1963	Master 2	V2			10 km
+COLOMBET	Jordan	M	97			1992	Senior	SE			10 km
+CORNET	Xavier	M	98	1129436		1965	Master 2	V2	AC PARIS JOINVILLE	94042	10 km
+COUTURIER-BAILLE	Charline	F	99			1989	Senior	SE			10 km
+CROIX	Prisca	F	100			1970	Master 1	V1			10 km
+DUVERNE	Xavier	M	101			1953	Master 3	V3			10 km
+EMBLANC	Julien	M	102			1990	Senior	SE	LES LUCIOLES CHEVIGNY		10 km
+ETTORI	David	M	103	1852958		1976	Master 1	V1	ASGU	58020	10 km
+FERREIRA	Florian	M	104			1988	Senior	SE			10 km
+FONCELLE	Julien	M	105			1974	Master 1	V1			10 km
+FORT	Thierry	M	106			1959	Master 2	V2	LES LUCIOLES		10 km
+GAUCHE	Véronique	F	107			1964	Master 2	V2	NAT ET VÉRO		10 km
+GIMENEZ	Alain	M	108			1960	Master 2	V2			10 km
+GRANDPERRET	Didier	M	109			1960	Master 2	V2			10 km
+GRANON	Charles	M	110			1987	Senior	SE	CGFL		10 km
+HEBTING SCHERLEN	Valérie	F	111			1965	Master 2	V2	COURIR À SENNECEY		10 km
+HENNEBERT	David	M	112			1977	Senior	SE			10 km
+HEUDE	Romain	M	113			1987	Senior	SE			10 km
+JONDOT	Isabelle	F	114			1963	Master 2	V2			10 km
+LALLEMAND	Aurore	F	115			1986	Senior	SE			10 km
+LE BAIL	Clément	M	116			1994	Espoir	ES			10 km
+LOUIS	Stéphanie	F	117			1983	Senior	SE			10 km
+MARTIN	Nathalie	F	118			1967	Master 1	V1	NAT ET VERO		10 km
+MARTIN	Vincent	M	119			1970	Master 1	V1			10 km
+MASSIP	Antoine	M	120			1993	Senior	SE			10 km
+METROT	Emeric	M	121			1986	Senior	SE			10 km
+MOREAUD	Sylvie	F	122			1970	Master 1	V1			10 km
+NICKS	Jean Louis	M	123			1984	Senior	SE			10 km
+PEREIRA	Patrick	M	124			1976	Master 1	V1			10 km
+PIERRE CHARTRA	Pierre	M	125	A63151L		1983	Senior	SE	DIJON TRIATHLON		10 km
+PONSONNET	Denis	M	126			1978	Senior	SE			10 km
+POPELIER	Agathe	F	127			1970	Master 1	V1			10 km
+POUCHARD	Jean Pierre	M	128			1970	Master 1	V1			10 km
+POUCHARD	Jessy	M	129			1996	Espoir	ES			10 km
+POUCHARD	Manon	F	130			1998	Junior	JU			10 km
+RENAULT	Laétitia	F	131	1852956		1978	Senior	SE	ASGU	58020	10 km
+ROUCHON	Camille	F	132			1995	Espoir	ES			10 km
+ROUSSEL	Franck	M	133			1998	Junior	JU			10 km
+ROUSSEL	Patrick	M	134			1960	Master 2	V2			10 km
+RUIZ DE LA FUENTE	Juan Manuel	M	135	1742812		1989	Senior	SE	AJA MARATHON	89024	10 km
+SARADIN	François	M	136			1971	Master 1	V1			10 km
+SCHERRER	Raphael	M	137			1985	Senior	SE			10 km
+SCHERRER	Valeriane	F	138			1985	Senior	SE			10 km
+SCHUFFENECKER	Dominique	F	139			1956	Master 3	V3			10 km
+SEIXO	Miguel	M	140	1493328		1978	Senior	SE	SEMUR ATHLETISME AVENTURE	21041	10 km
+SOUSTELLE	Marcel	M	141			1959	Master 2	V2	LES LUCIOLES CHEVIGNY		10 km
+TAUPIN NOËL	Taupin	M	142			1980	Senior	SE			10 km
+AUJOLLET	Nathalie	F	143			1979	Senior	SE			10 km
+BAUDE	Yvon	M	144			1955	Master 3	V3			10 km
+BELLON	Jerome	M	145			1983	Senior	SE			10 km
+CABRERIZO-TORRES	Juliette	F	146			1995	Espoir	ES			10 km
+CARRERES	James	M	147			1984	Senior	SE			10 km
+DESCHAMPS	Michael	M	148			1990	Senior	SE			10 km
+DUPAS	Fabien	M	149			1983	Senior	SE			10 km
+ENAULT	Christophe	M	150			1981	Senior	SE			10 km
+FAGOT	Alexandre	M	151			1987	Senior	SE			10 km
+FAVAUT	Daniel	M	152			1977	Senior	SE	ASSIM TYCO		10 km
+GEAY	Maud	F	153			1979	Senior	SE			10 km
+GIRAUDIER	Elodie	F	154	1686415		1981	Senior	SE	AC CHENÔVE	21005	10 km
+GIRONDEAU	Florent	M	155			1974	Master 1	V1			10 km
+JAMMAS	Colette	F	156			1973	Master 1	V1			10 km
+LAPLANCHE	Dominique	M	157			1953	Master 3	V3			10 km
+LECLERE	Guillaume	M	158	1379642		1979	Senior	SE	A C CHENOVE	21005	10 km
+LERCIER	Louis	M	159			1993	Senior	SE	CHEVIGNY ST SAUVEUR HB		10 km
+LONGO	Sandrine	F	160			1986	Senior	SE	GROUPE SMA		10 km
+LUCAS	Arnaud	M	161			1988	Senior	SE			10 km
+MANGIN	Pascal	M	162			1963	Master 2	V2	AJVN		10 km
+MARIE	Sébastien	M	163			1971	Master 1	V1			10 km
+MARONNAT	Evelyne	F	164			1962	Master 2	V2			10 km
+MARONNAT	Serge	M	165			1960	Master 2	V2			10 km
+MARTIN	Loic	M	166			1967	Master 1	V1			10 km
+MARTIN	Marinette	F	167			1971	Master 1	V1			10 km
+MINDER	Nadege	F	168			1984	Senior	SE			10 km
+MONCHARMONT	Philippe	M	169			1966	Master 2	V2			10 km
+MONNIN	Francois	M	170			1973	Master 1	V1			10 km
+MONOT	Sébastien	M	171			1979	Senior	SE			10 km
+MOREAUX	Denis	M	172			1975	Master 1	V1			10 km
+PICARD	Julien	M	173			1974	Master 1	V1			10 km
+PRÉVOST	Yohann	M	174			1993	Senior	SE	JUVIGNAC HANDBALL		10 km
+RENOU	Stéphane	M	175			1968	Master 1	V1			10 km
+REYNAUD JEAN	Reynaud	M	176			1953	Master 3	V3			10 km
+VALLAZ	Yves	M	901			1954	Master 3	V3			5 km
+DOUARE	ANTONIN	M	902	1686496	COMP	2000	Cadet	CA	AC CHENOVE	21005	5 km
+MESSOUSSA	YANIS	M	903			1996	Espoir	ES			5 km
+MESSOUSSA	Mehdi	M	904			1970	Master 1	V1			5 km
+LOEUILLET	Ghislaine	F	905			1963	Master 2	V2			5 km
+CASTELLA	PIERRE	M	906	1563541	COMP	2000	Cadet	CA	DIJON UC	21008	5 km
+PETIT	Emmanuelle	F	907			1999	Cadet	CA			5 km
+CHOLLET	Sabine	F	908			1963	Master 2	V2			5 km
+GIMENEZ	Martine	F	909			1957	Master 2	V2			5 km
+HUGUES	Michaël	M	910			1969	Master 1	V1			5 km
+LAVAUX	Michael	M	911			1979	Senior	SE			5 km
+ROUDITCH	Sonia	F	912			1977	Senior	SE			5 km

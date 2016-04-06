@@ -1,0 +1,9 @@
+Nom	Prénom	Sexe	Numéro	Licence	Type Licence	Naissance	Catégorie	Nom Catégorie	Club	Code Club	Course	Distance
+MATHIEU	Laura	F	1			2005	2	Poussin			Poussins	1,22
+BERLANGA	Romain	M	2			2005	2	Poussin			Poussins	1,22
+BORNEL	Augustin	M	3			2006	2	Poussin			Poussins	1,22
+DORMOY	Louis	M	101	1566230	COMP	2004	3	Benjamin	DIJON UC	21008	Benjamins Minimes	2,14
+DOUARE	Lilian	M	102	1686490	COMP	2001	4	Minime	AC CHENOVE	21005	Benjamins Minimes	2,14
+CHEVILLON	Zoé	F	103	A82580C	COMP	2001	4	Minime	CHENOVE TRIATHLON CLUB		Benjamins Minimes	2,14
+FANTON	Emma	F	104			2001	4	Minime			Benjamins Minimes	2,14
+FANTON	Zoé	F	105			2004	3	Benjamin			Benjamins Minimes	2,14

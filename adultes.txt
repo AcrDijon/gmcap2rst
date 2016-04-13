@@ -1,189 +1,391 @@
-Nom	Prénom	Sexe	Numéro	Licence	Type Licence	Naissance	Nom Catégorie	Abbrev. Catégorie	Club	Code Club	Course
-MEO	André	M	1			1961	Master 2	V2			10 km
-HURTEL	Virginie	F	2			1983	Senior	SE			10 km
-DULIO	Ulrick	M	3			1987	Senior	SE			10 km
-LEVOTRE	Christian	M	4			1979	Senior	SE			10 km
-DORMOY	Bruno	M	5			1964	Master 2	V2			10 km
-DUPAS	Stéphane	M	6	1448940	LOISR	1971	Master 1	V1	COUREURS SUR ROUTE COTE D OR	21039	10 km
-TATIGNY	Pascal	M	7			1965	Master 2	V2			10 km
-MATHIEU	Jean	M	8			1949	Master 3	V3			10 km
-SIMON	Alain	M	9			1957	Master 2	V2			10 km
-FOURNIER	Mathieu	M	10			1978	Senior	SE			10 km
-COLOMBI	Daniel	M	11			1957	Master 2	V2			10 km
-MANOHA	Philippe	M	12			1965	Master 2	V2			10 km
-MANOHA	Catherine	F	13	1008685	LOISR	1965	Master 2	V2	ASPTT DIJON ATHLETISME	21032	10 km
-CHERUBINI	Jérôme	M	14			1973	Master 1	V1			10 km
-EUVRARD	Matthieu	M	15			1971	Master 1	V1			10 km
-ALBERT-BRUNET	Natacha	F	16			1981	Senior	SE			10 km
-DICONNE	Dominique	F	17			1975	Master 1	V1			10 km
-MATHIEU	Arnaud	M	18			1981	Senior	SE			10 km
-THOMAS	Gérard	M	19			1953	Master 3	V3			10 km
-DOUARE	Fabrice	M	20	1754724	COMP	1971	Master 1	V1	AC CHENOVE	21005	10 km
-BELGACEM	Salah	M	21	485561	COMP	1969	Master 1	V1	SA AUTUN	71025	10 km
-RACLOT	Lionel	M	22			1972	Master 1	V1			10 km
-ZANINI	Patrick	M	23	547899	COMP	1955	Master 3	V3	COUREURS SUR ROUTE DE COTE D'OR	21039	10 km
-ZANINI	Marie-Paule	F	24	547903	COMP	1963	Master 2	V2	COUREURS SUR ROUTE DE COTE D'OR	21039	10 km
-PATHOUOT	Alicia	F	25			1992	Senior	SE			10 km
-BARBIER	Nadège	F	26			1957	Master 2	V2			10 km
-UXOL	Jean-Louis	M	27			1966	Master 2	V2			10 km
-UXOL	Caroline	F	28			1968	Master 1	V1			10 km
-MASSON	Teddy	M	29			1964	Master 2	V2			10 km
-LETENDU	Aurore	F	30			1980	Senior	SE			10 km
-LIORET	Corinne	F	31			1959	Master 2	V2			10 km
-RENARD	Nadine	F	32			1963	Master 2	V2			10 km
-BERLANGA	Agnès	F	33			1969	Master 1	V1			10 km
-MAGUER	Jean Claude	M	34	1000143	LOISS	1946	Master 4	V4	ACR DIJON		10 km
-BRIOT	Alain	M	35	1857254	LOISR	1946	Master 4	V4	ACR DIJON		10 km
-LINGELSER	Patrick	M	36	936628	LOISR	1956	Master 3	V3	AS BOLOGNE	52008	10 km
-MERME	Georges	M	37			1963	Master 2	V2			10 km
-BACROT	Marie-Odile	F	38			1954	Master 3	V3			10 km
-BONFILS	Catherine	F	39			1949	Master 3	V3			10 km
-FORQUET	Carmen	F	40			1954	Master 3	V3			10 km
-GUENERET	Kristofer	M	41			1987	Senior	SE			10 km
-NIVOIS	Peggy	F	42			1973	Master 1	V1			10 km
-CUSEY	Stéphane	M	43			1976	Master 1	V1			10 km
-ABDELLAOUI	Mohamed	M	44			1946	Master 4	V4			10 km
-VICAIRE	Stéphane	M	45			1978	Senior	SE			10 km
-KEINERKNECHT	Thibaut	M	46			1993	Senior	SE			10 km
-PERRET	Margot	F	47			1992	Senior	SE			10 km
-PERRET	Brigitte	F	48	1242285	LOISR	1961	Master 2	V2	SL ENTENTE CHAUMONT AC	52004	10 km
-BRAHIMI	Kamel	M	49	247671	COMP	1970	Master 1	V1	AC CHENOVE	21005	10 km
-REGNIER	Sébastien	M	50			1979	Senior	SE			10 km
-BAY	CELINE	F	51	1028251	COMP	1976	Master 1	V1	SA AUTUN	71025	10 km
-BAZOT	Yann	M	52			1981	Senior	SE			10 km
-FOUSSET	Didier	M	53			1954	Master 3	V3			10 km
-FOUSSET	Yoann	M	54			1983	Senior	SE			10 km
-BORNEL	Véronique	F	55			1965	Master 2	V2			10 km
-MOREAU	Stéphanie	F	56			1984	Senior	SE			10 km
-MOREAU	Sophie	F	57			1980	Senior	SE			10 km
-HUSY	David	M	58			1969	Master 1	V1	NUITS COURSE A PIED		10 km
-BROCARD	Sybil	F	59			1969	Master 1	V1	NUITS COURSE À PIED		10 km
-DEMIAUTTE	Lydie	F	60			1970	Master 1	V1	NUITS COURSE À PIED		10 km
-SPECK	Denis	M	61			1953	Master 3	V3			10 km
-NIZET	Fabrice	M	62			1970	Master 1	V1			10 km
-MADINIER CHAPPAT	Nathalie	F	63			1965	Master 2	V2			10 km
-MADINIER	Augustin	M	64			1993	Senior	SE			10 km
-MADINIER	Garance	F	65			1999	Cadet	CA			10 km
-JONDEAU	Fabrice	M	66			1980	Senior	SE			10 km
-CACHIER	Aymeric	M	67			1989	Senior	SE			10 km
-ROBIN	Michelle	F	68	399301357	LOISS	1941	Master 4	V4	F.S.C.F SPRTS ET DETENTE		10 km
-GAUTHIER	Emmanuelle	F	69			1977	Senior	SE	ACRAUX AUXONNE		10 km
-HAMELIN	Matthias	M	70			1991	Senior	SE			10 km
-HENRY	Magali	F	71			1974	Master 1	V1			10 km
-PASDELOUP	Guillaume	M	72			1992	Senior	SE			10 km
-ROSSIGNOL	Mylène	F	73			1991	Senior	SE			10 km
-VERY	Sébastien	M	74	A80777C0040660MS3FRA		1985	Senior	SE	CHENÔVE TRIATHLON CLUB		10 km
-ABBAD	Zohra	F	75	1847766		1982	Senior	SE	AC CHENOVE	21005	10 km
-ALAINE	Cyril	M	76			1987	Senior	SE			10 km
-ALISON	Elise	F	77			1977	Senior	SE			10 km
-BAILLE	Thomas	M	78			1987	Senior	SE			10 km
-BATTIN	Daniel	M	79	112382		1957	Master 2	V2	DUC	21008	10 km
-BOQUET	Amélie	F	80			1983	Senior	SE			10 km
-BOUILLOT	Nathalie	F	81			1968	Master 1	V1			10 km
-BOURRUST	Isabelle	F	82			1965	Master 2	V2			10 km
-BOUSARD	Aurélie	F	83			1987	Senior	SE			10 km
-BOUTARFA	Frederic	M	84			1972	Master 1	V1			10 km
-BRAZIER	Patricia	F	85			1968	Master 1	V1			10 km
-BRUN	Bertrand	M	86	1817743		1969	Master 1	V1	COUREURS SUR ROUTE DE CÔTE D'OR (CROCO)		10 km
-BRUN	Frederic	M	87	1795405		1964	Master 2	V2	COUREUR SUR ROUTE COTE D'OR	21039	10 km
-BRUN	Judith	F	88			1992	Senior	SE			10 km
-CHAMBIET	Isabelle	F	89			1971	Master 1	V1			10 km
-CHAMPONNOIS	Francine	F	90			1969	Master 1	V1			10 km
-CHANDIOUX	Régis	M	91			1971	Master 1	V1			10 km
-CHAPON	Jean Bernard	M	92			1966	Master 2	V2	COURIR À SENNECEY		10 km
-CHARIGNON	Dominique	M	93			1957	Master 2	V2			10 km
-CHEVAUCHET	Franck	M	94			1974	Master 1	V1			10 km
-CHEVIGNY	Sandra	F	95			1991	Senior	SE			10 km
-CHOLLET	Yvan	M	96			1963	Master 2	V2			10 km
-COLOMBET	Jordan	M	97			1992	Senior	SE			10 km
-CORNET	Xavier	M	98	1129436		1965	Master 2	V2	AC PARIS JOINVILLE	94042	10 km
-COUTURIER-BAILLE	Charline	F	99			1989	Senior	SE			10 km
-CROIX	Prisca	F	100			1970	Master 1	V1			10 km
-DUVERNE	Xavier	M	101			1953	Master 3	V3			10 km
-EMBLANC	Julien	M	102			1990	Senior	SE	LES LUCIOLES CHEVIGNY		10 km
-ETTORI	David	M	103	1852958		1976	Master 1	V1	ASGU	58020	10 km
-FERREIRA	Florian	M	104			1988	Senior	SE			10 km
-FONCELLE	Julien	M	105			1974	Master 1	V1			10 km
-FORT	Thierry	M	106			1959	Master 2	V2	LES LUCIOLES		10 km
-GAUCHE	Véronique	F	107			1964	Master 2	V2	NAT ET VÉRO		10 km
-GIMENEZ	Alain	M	108			1960	Master 2	V2			10 km
-GRANDPERRET	Didier	M	109			1960	Master 2	V2			10 km
-GRANON	Charles	M	110			1987	Senior	SE	CGFL		10 km
-HEBTING SCHERLEN	Valérie	F	111			1965	Master 2	V2	COURIR À SENNECEY		10 km
-HENNEBERT	David	M	112			1977	Senior	SE			10 km
-HEUDE	Romain	M	113			1987	Senior	SE			10 km
-JONDOT	Isabelle	F	114			1963	Master 2	V2			10 km
-LALLEMAND	Aurore	F	115			1986	Senior	SE			10 km
-LE BAIL	Clément	M	116			1994	Espoir	ES			10 km
-LOUIS	Stéphanie	F	117			1983	Senior	SE			10 km
-MARTIN	Nathalie	F	118			1967	Master 1	V1	NAT ET VERO		10 km
-MARTIN	Vincent	M	119			1970	Master 1	V1			10 km
-MASSIP	Antoine	M	120			1993	Senior	SE			10 km
-METROT	Emeric	M	121			1986	Senior	SE			10 km
-MOREAUD	Sylvie	F	122			1970	Master 1	V1			10 km
-NICKS	Jean Louis	M	123			1984	Senior	SE			10 km
-PEREIRA	Patrick	M	124			1976	Master 1	V1			10 km
-PIERRE CHARTRA	Pierre	M	125	A63151L		1983	Senior	SE	DIJON TRIATHLON		10 km
-PONSONNET	Denis	M	126			1978	Senior	SE			10 km
-POPELIER	Agathe	F	127			1970	Master 1	V1			10 km
-POUCHARD	Jean Pierre	M	128			1970	Master 1	V1			10 km
-POUCHARD	Jessy	M	129			1996	Espoir	ES			10 km
-POUCHARD	Manon	F	130			1998	Junior	JU			10 km
-RENAULT	Laétitia	F	131	1852956		1978	Senior	SE	ASGU	58020	10 km
-ROUCHON	Camille	F	132			1995	Espoir	ES			10 km
-ROUSSEL	Franck	M	133			1998	Junior	JU			10 km
-ROUSSEL	Patrick	M	134			1960	Master 2	V2			10 km
-RUIZ DE LA FUENTE	Juan Manuel	M	135	1742812		1989	Senior	SE	AJA MARATHON	89024	10 km
-SARADIN	François	M	136			1971	Master 1	V1			10 km
-SCHERRER	Raphael	M	137			1985	Senior	SE			10 km
-SCHERRER	Valeriane	F	138			1985	Senior	SE			10 km
-SCHUFFENECKER	Dominique	F	139			1956	Master 3	V3			10 km
-SEIXO	Miguel	M	140	1493328		1978	Senior	SE	SEMUR ATHLETISME AVENTURE	21041	10 km
-SOUSTELLE	Marcel	M	141			1959	Master 2	V2	LES LUCIOLES CHEVIGNY		10 km
-TAUPIN NOËL	Taupin	M	142			1980	Senior	SE			10 km
-AUJOLLET	Nathalie	F	143			1979	Senior	SE			10 km
-BAUDE	Yvon	M	144			1955	Master 3	V3			10 km
-BELLON	Jerome	M	145			1983	Senior	SE			10 km
-CABRERIZO-TORRES	Juliette	F	146			1995	Espoir	ES			10 km
-CARRERES	James	M	147			1984	Senior	SE			10 km
-DESCHAMPS	Michael	M	148			1990	Senior	SE			10 km
-DUPAS	Fabien	M	149			1983	Senior	SE			10 km
-ENAULT	Christophe	M	150			1981	Senior	SE			10 km
-FAGOT	Alexandre	M	151			1987	Senior	SE			10 km
-FAVAUT	Daniel	M	152			1977	Senior	SE	ASSIM TYCO		10 km
-GEAY	Maud	F	153			1979	Senior	SE			10 km
-GIRAUDIER	Elodie	F	154	1686415		1981	Senior	SE	AC CHENÔVE	21005	10 km
-GIRONDEAU	Florent	M	155			1974	Master 1	V1			10 km
-JAMMAS	Colette	F	156			1973	Master 1	V1			10 km
-LAPLANCHE	Dominique	M	157			1953	Master 3	V3			10 km
-LECLERE	Guillaume	M	158	1379642		1979	Senior	SE	A C CHENOVE	21005	10 km
-LERCIER	Louis	M	159			1993	Senior	SE	CHEVIGNY ST SAUVEUR HB		10 km
-LONGO	Sandrine	F	160			1986	Senior	SE	GROUPE SMA		10 km
-LUCAS	Arnaud	M	161			1988	Senior	SE			10 km
-MANGIN	Pascal	M	162			1963	Master 2	V2	AJVN		10 km
-MARIE	Sébastien	M	163			1971	Master 1	V1			10 km
-MARONNAT	Evelyne	F	164			1962	Master 2	V2			10 km
-MARONNAT	Serge	M	165			1960	Master 2	V2			10 km
-MARTIN	Loic	M	166			1967	Master 1	V1			10 km
-MARTIN	Marinette	F	167			1971	Master 1	V1			10 km
-MINDER	Nadege	F	168			1984	Senior	SE			10 km
-MONCHARMONT	Philippe	M	169			1966	Master 2	V2			10 km
-MONNIN	Francois	M	170			1973	Master 1	V1			10 km
-MONOT	Sébastien	M	171			1979	Senior	SE			10 km
-MOREAUX	Denis	M	172			1975	Master 1	V1			10 km
-PICARD	Julien	M	173			1974	Master 1	V1			10 km
-PRÉVOST	Yohann	M	174			1993	Senior	SE	JUVIGNAC HANDBALL		10 km
-RENOU	Stéphane	M	175			1968	Master 1	V1			10 km
-REYNAUD JEAN	Reynaud	M	176			1953	Master 3	V3			10 km
-VALLAZ	Yves	M	901			1954	Master 3	V3			5 km
-DOUARE	ANTONIN	M	902	1686496	COMP	2000	Cadet	CA	AC CHENOVE	21005	5 km
-MESSOUSSA	YANIS	M	903			1996	Espoir	ES			5 km
-MESSOUSSA	Mehdi	M	904			1970	Master 1	V1			5 km
-LOEUILLET	Ghislaine	F	905			1963	Master 2	V2			5 km
-CASTELLA	PIERRE	M	906	1563541	COMP	2000	Cadet	CA	DIJON UC	21008	5 km
-PETIT	Emmanuelle	F	907			1999	Cadet	CA			5 km
-CHOLLET	Sabine	F	908			1963	Master 2	V2			5 km
-GIMENEZ	Martine	F	909			1957	Master 2	V2			5 km
-HUGUES	Michaël	M	910			1969	Master 1	V1			5 km
-LAVAUX	Michael	M	911			1979	Senior	SE			5 km
-ROUDITCH	Sonia	F	912			1977	Senior	SE			5 km
+Nom	Prénom	Adresse1	Adresse2	Code	Ville	Etat	Pays	Tel	Sexe	Numéro	Licence	Type Licence	Naissance	Catégorie	Nom Catégorie	Abbrev. Catégorie	Nation	Club	Code Club	Competition	Type Compet.	Ville Compet.	Code Ville Compet.	Date Compet.	Course	Distance	Temps	Nb.Secondes	Temps Arrondi	Nb.Secondes Arrondi	Nb.Heures Arrondi	Classement	Classement par Cat.	Classement par Sexe	Organisme	Payé	Invité	Certif Médical	Pris Départ	Abandon	Disqualifié	Qualifié	Envoi Classt	Handicap	ID	Sponsor	Palmarès	EMail	NbPassage 31
+MEO	André								M	1			1961	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+HURTEL	Virginie								F	2			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				virginie.hurtel@gmail.com	0
+DULIO	Ulrick								M	3			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				uldulio@icloud.fr	0
+LEVOTRE	Christian								M	4			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				christian.levotre@wanadoo.fr	0
+DORMOY	Bruno								M	5			1964	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				bruno.dormoy@gmail.com	0
+DUPAS	Stéphane						FRANCE		M	6	1448940	LOISR	1971	9	Master 1	V1	FRA	COUREURS SUR ROUTE COTE D OR	021039	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+TATIGNY	Pascal								M	7			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AJVN	O	N	O	N	N	N	N	N	00:00:00				pascal-tatigny@croisette.net	0
+MATHIEU	Jean								M	8			1949	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				mathieu.jean.danielle@gmail.com	0
+SIMON	Alain								M	9			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				alainsimon@free.fr	0
+FOURNIER	Mathieu								M	10			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				mathieu.fournier2@free.fr	0
+COLOMBI	Daniel								M	11			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				daniel.colombi@wanadoo.fr	0
+MANOHA	Philippe								M	12			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	COPS21	O	N	O	N	N	N	N	N	00:00:00				manoha.philippe@neuf.fr	0
+MANOHA	Catherine						FRANCE		F	13	1008685	LOISR	1965	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				manoha.philippe@neuf.fr	0
+CHERUBINI	Jérôme								M	14			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				binidje@wanadoo.fr	0
+EUVRARD	Matthieu								M	15			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				matthieu.euvrard@areva.com	0
+ALBERT-BRUNET	Natacha								F	16			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				clatapetch@hotmail.fr	0
+DICONNE	Dominique								F	17			1975	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				famille.mathieu@aol.fr	0
+MATHIEU	Arnaud								M	18			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				arnaud.mathieu@aol.fr	0
+THOMAS	Gérard								M	19			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				gerardetcorinne.thomas@neuf.fr	0
+DOUARE	Fabrice	1 Impasse Sophie Grangier		21110	BESSEY LES CITEAUX		France		M	20	1754724	COMP	1971	9	Master 1	V1	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				famille.douare@live.fr	0
+BELGACEM	Salah	10 Rue Des 4 Vents		71400	AUTUN		France		M	21	485561	COMP	1969	9	Master 1	V1	FRA	SA AUTUN	071025	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				salah.belgacem@gmail.com	0
+RACLOT	Lionel								M	22			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				tolcar@orange.fr	0
+ZANINI	Patrick	104 Rue Faubourg Saint Martin		21121	FONTAINE LES DIJON		France		M	23	547899	COMP	1955	11	Master 3	V3	FRA	COUREURS SUR ROUTE DE COTE D'OR	021039	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				pzanini@maisondesentreprises.com	0
+ZANINI	Marie-Paule			21xxx			France		F	24	547903	COMP	1963	10	Master 2	V2	FRA	COUREURS SUR ROUTE DE COTE D'OR	021039	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				mpzanini@yahoo.fr	0
+PATHOUOT	Alicia								F	25			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				a.pathouot@gmail.com	0
+BARBIER	Nadège								F	26			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CAC39	O	N	O	N	N	N	N	N	00:00:00					0
+UXOL	Jean-Louis								M	27			1966	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				uxoljeanlouis@gmail.com	0
+UXOL	Caroline								F	28			1968	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				c_sarrazin56@yahoo.fr	0
+MASSON	Teddy								M	29			1964	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				teddy.masson@gmail.com	0
+LETENDU	Aurore								F	30			1980	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	COURIR À SENNECEY	O	N	O	N	N	N	N	N	00:00:00				letendu.aurore@aliceadsl.fr	0
+LIORET	Corinne								F	31			1959	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+RENARD	Nadine								F	32			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+BERLANGA	Agnès								F	33			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				agnes.berlanga@laposte.net	0
+MAGUER	Jean Claude	10 Impasse Ingres		21000	DIJON		France		M	34	1000143	LOISS	1946	12	Master 4	V4	FRA	ACR DIJON	021038	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	O	O	N	N	N	N	N	00:00:00				magusses21@gmail.com	0
+BRIOT	Alain			21xxx					M	35	1857254	LOISR	1946	12	Master 4	V4	FRA	ACR DIJON	021038	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	O	O	N	N	N	N	N	00:00:00				alain.briot0558@orange.fr	0
+LINGELSER	Patrick								M	36	936628	LOISR	1956	11	Master 3	V3	FRA	AS BOLOGNE	052008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				patrick_lingelser@orange.fr	0
+MERME	Georges								M	37			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+BACROT	Marie-Odile								F	38			1954	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	VAL DE GRAY MARATHON	O	N	O	N	N	N	N	N	00:00:00				marie-odile.bacrot@laposte.net	0
+BONFILS	Catherine								F	39			1949	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	VAL DE GRAY MARATHON	O	N	O	N	N	N	N	N	00:00:00				bonfilscatherine@orange.fr	0
+FORQUET	Carmen								F	40			1954	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GUENERET	Kristofer								M	41			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				kristofer21@hotmail.fr	0
+NIVOIS	Peggy								F	42			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				famillenombreuse@gmail.com	0
+CUSEY	Stéphane								M	43			1976	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				steph.cusey@orange.fr	0
+ABDELLAOUI	Mohamed								M	44			1946	12	Master 4	V4	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				mhamed.abdellaoui21300@gmail.com	0
+VICAIRE	Stéphane								M	45			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				steph25ane@gmail.com	0
+KEINERKNECHT	Thibaut								M	46			1993	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				thik54@hotmail.fr	0
+PERRET	Margot								F	47			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				perretmargot@gmail.com	0
+PERRET	Brigitte								F	48	1242285	LOISR	1961	10	Master 2	V2	FRA	SL ENTENTE CHAUMONT AC	052004	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				brigitteperret@hotmail.fr	0
+BRAHIMI	Kamel						FRANCE		M	49	247671	COMP	1970	9	Master 1	V1	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				kamel.brahimi@gmail.com	0
+REGNIER	Sébastien								M	50			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				seb@eclectika.fr	0
+BAY	CELINE			71xxx			FRANCE		F	51	1028251	COMP	1976	9	Master 1	V1	FRA	SA AUTUN	071025	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				c.bay@laposte.net	0
+BAZOT	Yann								M	52			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+FOUSSET	Didier								M	53			1954	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				didier.fousset@cotedor.fr	0
+FOUSSET	Yoann								M	54			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				yoannf@hotmail.fr	0
+BORNEL	Véronique								F	55			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+MOREAU	Stéphanie								F	56			1984	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				stephanie.moreau84@gmail.com	0
+MOREAU	Sophie								F	57			1980	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				sophiemoreau@hotmail.fr	0
+HUSY	David	4 Rue De Longvic		21300	CHENOVE		France		M	58			1969	9	Master 1	V1	FRA	NUITS COURSE A PIED		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				david.husy@wanadoo.fr	0
+BROCARD	Sybil	5 Route De Boncourt-Le-Bois		21700	VOSNE ROMANEE		France		F	59			1969	9	Master 1	V1	FRA	NUITS COURSE À PIED		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				brocard.sybil@aliceadsl.fr	0
+DEMIAUTTE	Lydie	21 rue Henri de Bahezre		21700	NUITS ST GEORGES		France		F	60			1970	9	Master 1	V1	FRA	NUITS COURSE À PIED		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	N	N	N	N	N	00:00:00				lydie.demiautte@orange.fr	0
+SPECK	Denis								M	61			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+NIZET	Fabrice								M	62			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nizcom@aliceadsl.fr	0
+MADINIER CHAPPAT	Nathalie								F	63			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nmadinierchappat@gmail.com	0
+MADINIER	Augustin								M	64			1993	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nmadinierchappat@gmail.com	0
+MADINIER	Garance								F	65			1999	5	Cadet	CA	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nmadinierchappat@gmail.com	0
+JONDEAU	Fabrice								M	66			1980	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				fabrice_jondeau@yahoo.fr	0
+CACHIER	Aymeric								M	67			1989	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				aymeric.cachier@hotmail.fr	0
+ROBIN	Michelle	16 rue Croix d'Amont		39100	SAMPANS		France		F	68	0399301357	LOISS	1941	12	Master 4	V4	FRA	F.S.C.F SPRTS ET DETENTE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GAUTHIER	Emmanuelle	54 rue de labergement		21130	AUXONNE		FRANCE	0618074716	F	69			1977	8	Senior	SE	FRA	ACRAUX AUXONNE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987299			manufrog@hotmail.fr	0
+HAMELIN	Matthias	26 Rue Monge		21000	DIJON		FRANCE	0643435141	M	70			1991	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987441			matthias.hamelin@gmail.com	0
+HENRY	Magali	2D rue saint francois		21130	SAINT SEINE EN BACHE		FRANCE	0678404849	F	71			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987301			magali.pillot@laposte.net	0
+PASDELOUP	Guillaume	3 rue franklin		21000	DIJON		FRANCE	0664200489	M	72			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987307			guillaume.pasdeloup@hotmail.fr	0
+ROSSIGNOL	Mylène	26 Rue Monge		21000	DIJON		FRANCE	0643435141	F	73			1991	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987442			matthias.hamelin@gmail.com	0
+VERY	Sébastien	14 rue du buisson d'argent		21220	EPERNAY SOUS GEVREY		FRANCE		M	74	A80777C0040660MS3FRA		1985	8	Senior	SE	FRA	CHENÔVE TRIATHLON CLUB		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987500			sebastien.very@gmail.com	0
+ABBAD	Zohra	9 rue Petitot		21000	DIJON		FRANCE	0621785250	F	75	1847766		1982	8	Senior	SE	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-984516			zohra.abbad@gmail.com	0
+ALAINE	Cyril	32 RUE HENRI BECQUEREL		21000	DIJON		FRANCE	0672802189	M	76			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985406			cyril.alaine@gmail.com	0
+ALISON	Elise	7 rue de serrigny		21000	DIJON		FRANCE	0662899318	F	77			1977	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984239			asse.alison@gmail.com	0
+BAILLE	Thomas	31 rue Jules Dorget		54000	NANCY		FRANCE		M	78			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-982964			baillethomas@laposte.net	0
+BATTIN	Daniel	32 avenue Poincaré		21000	DIJON		FRANCE	0622771416	M	79	112382		1957	10	Master 2	V2	FRA	DUC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-960327			dbattin@gmail.com	0
+BOQUET	Amélie	43 rue Maurice deslandre		21000	DIJON		FRANCE	0617037447	F	80			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-973546			amelie.boq@hotmail.com	0
+BOUILLOT	Nathalie	6 impasse Mermoz		21800	CHEVIGNY SAINT SAUVEUR		FRANCE	06 26 46 37 50	F	81			1968	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985388			bouillot.nathalie@neuf.fr	0
+BOURRUST	Isabelle	3 rue Tonnelat		21000	DIJON		FRANCE	0642197551	F	82			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-967223			i.bourrust@gmail.com	0
+BOUSARD	Aurélie	73 rue bourdarias		94140	ALFORTVILLE		FRANCE		F	83			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-975898			jeanlouis.nicks@gmail.com	0
+BOUTARFA	Frederic	8 rue de la vanoise		21110	GENLIS		FRANCE	0651999112	M	84			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-982693			fred.boutarfa21@neuf.fr	0
+BRAZIER	Patricia	7 rue de la caillette		52200	BOURG		FRANCE	06.88.79.17.13	F	85			1968	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985415			carrosserieroussel@bbox.fr	0
+BRUN	Bertrand	Les Balcons des Crais  Bâtiment F10		21380	ASNIÈRES-LES-DIJON		FRANCE	0607118562	M	86	1817743		1969	9	Master 1	V1	FRA	COUREURS SUR ROUTE DE CÔTE D'OR (CROCO)		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-982252			crescendo.creato@wanadoo.fr	0
+BRUN	Frederic	41 Avenue Edouard SPAHR		21260	SELONGEY		FRANCE	33668163095	M	87	1795405		1964	10	Master 2	V2	FRA	COUREUR SUR ROUTE COTE D'OR	021039	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-982613			frederic.brun@outlook.com	0
+BRUN	Judith	10 rue Jean-Baptiste Baudin		21000	DIJON		FRANCE	0671948989	F	88			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-979368			judithbrun@yahoo.fr	0
+CHAMBIET	Isabelle	2 Chemin des Clos		21220	CHAMBOLLE MUSIGNY		FRANCE	0685481285	F	89			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984957			mistercox.isa@free.fr	0
+CHAMPONNOIS	Francine	24 rue berbisey		21000	DIJON		FRANCE	0611253884	F	90			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985360			francine.champonnois@free.fr	0
+CHANDIOUX	Régis	4 boulevard Édouard branly		21300	CHENOVE		FRANCE	0617892520	M	91			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985849			mrregis@free.fr	0
+CHAPON	Jean Bernard	13 Rue du Docteur Gaston Roussel		21130	AUXONNE		FRANCE	0620257650	M	92			1966	10	Master 2	V2	FRA	COURIR À SENNECEY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-982847			Jb.chapon@procie.com	0
+CHARIGNON	Dominique	2 rue du jardinier		84100	ORANGE		FRANCE		M	93			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-968641			doki@bbox.fr	0
+CHEVAUCHET	Franck	3, IMPASSE GEORGES MELIES		21000	DIJON		FRANCE	0661760717	M	94			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-981170			CFCHEVAUCHET@GMAIL.COM	0
+CHEVIGNY	Sandra	5 place de la france libre		21000	DIJON		FRANCE	0646333637	F	95			1991	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-982222			chevignysandra@gmail.com	0
+CHOLLET	Yvan	8, lotissement des chenes		25320	CHEMAUDIN		FRANCE	0381585589	M	96			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-976940			cholletyv@orange.fr	0
+COLOMBET	Jordan	1 CHEMIN DES PRÉS		25170	CHAUCENNE		FRANCE	0642920308	M	97			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-982354			colombet.jordan@orange.fr	0
+CORNET	Xavier	3 rue Aristide Briand		94410	SAINT MAURICE		FRANCE	+33140157913	M	98	1129436		1965	10	Master 2	V2	FRA	AC PARIS JOINVILLE	094042	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-983605			clx65@sfr.fr	0
+COUTURIER-BAILLE	Charline	31 rue Jules Dorget		54000	NANCY		FRANCE		F	99			1989	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-982965			baillethomas@laposte.net	0
+CROIX	Prisca	103 rue de talant		21000	DIJON		FRANCE	06.74.50.35.99	F	100			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-983980			prisca.croix@gmail.com	0
+DUVERNE	Xavier	8 rue Joan Miro		21000	DIJON		FRANCE	0638816697	M	101			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984332			duvernex@yahoo.fr	0
+EMBLANC	Julien	15 rue marie noel		21800	CHEVIGNY SAINT SAUVEUR		FRANCE		M	102			1990	8	Senior	SE	FRA	LES LUCIOLES CHEVIGNY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-981800			julien.emblanc@gmail.com	0
+ETTORI	David	30 RUE DE BALLERAY		58130	GUERIGNY		FRANCE	0660105970	M	103	1852958		1976	9	Master 1	V1	FRA	ASGU	058020	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-979494			daet58@gmail.com	0
+FERREIRA	Florian	5 place de la france libre		21000	DIJON		FRANCE	0659417453	M	104			1988	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-982226			chevignysandra@gmail.com	0
+FONCELLE	Julien	12, rue du moulin à vent		21000	DIJON		FRANCE	0664850343	M	105			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985195			julien.foncelle@gmail.com	0
+FORT	Thierry	2 impasse Nicolas Rolin		21800	CHEVIGNY SAINT SAUVEUR		FRANCE	06 30 49 66 98	M	106			1959	10	Master 2	V2	FRA	LES LUCIOLES		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-983624			fort.thierry@neuf.fr	0
+GAUCHE	Véronique	28 rue des Alisiers		21121	DAIX		FRANCE	0619210469	F	107			1964	10	Master 2	V2	FRA	NAT ET VÉRO		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-983452			nathalie.martin11@icloud.com	0
+GIMENEZ	Alain	8 allée des champs communaux		21121	FONTAINE LES DIJON		FRANCE	0630209026	M	108			1960	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-980480			gimenezal@wanadoo.fr	0
+GRANDPERRET	Didier	4 rue d'ouest		21110	ROUVRES EN PLAINE		FRANCE	0380397679	M	109			1960	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984954			d.grandperret@hotmail.fr	0
+GRANON	Charles	28 RUE LAMARTINE		21000	DIJON		FRANCE		M	110			1987	8	Senior	SE	FRA	CGFL		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-982757			charles21.eg@gmail.com	0
+HEBTING SCHERLEN	Valérie	119bis avenue Victor Hugo Apt 04		21000	DIJON		FRANCE	0685304166	F	111			1965	10	Master 2	V2	FRA	COURIR À SENNECEY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-982846			valheb@orange.fr	0
+HENNEBERT	David	2 RUE DU COUVENT		21540	BLAISY-BAS		FRANCE	0615376399	M	112			1977	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985273			hennebert-david@hotmail.fr	0
+HEUDE	Romain	56 rue du moulin		71530	SASSENAY		FRANCE		M	113			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-978608			romain.heude@hotmail.fr	0
+JONDOT	Isabelle	41 Avenue Edouard SPAHR		21260	SELONGEY		FRANCE	33668163095	F	114			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985398			frederic.brun@outlook.com	0
+LALLEMAND	Aurore	56 rue de bourgogne		21121	FONTAINE LES DIJON		FRANCE	0786398850	F	115			1986	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-983599			maxime.toulouse@yahoo.fr	0
+LE BAIL	Clément	9 bis rue d'ahuy		21121	HAUTEVILLE LES DIJON		FRANCE	0695128106	M	116			1994	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985410			clement.compagnons.du.devoir@hotmail.fr	0
+LOUIS	Stéphanie	32, Rue Philippe le Bon		21000	DIJON		FRANCE	+33663532384	F	117			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-981946			noel.taupin@hotmail.fr	0
+MARTIN	Nathalie	32 avenue de la Citadelle   appt 25		21240	TALANT		FRANCE	0627340436	F	118			1967	9	Master 1	V1	FRA	NAT ET VERO		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-983451			nathalie.martin11@icloud.com	0
+MARTIN	Vincent	12 IMPASSE DU FOURNEAU		21120	TIL CHATEL		FRANCE	0380952509	M	119			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984168			martintcr@free.fr	0
+MASSIP	Antoine	2 rue Maréchal Frenchet d'Espérey		21000	DIJON		FRANCE		M	120			1993	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-978592			a.massip@hotmail.fr	0
+METROT	Emeric	5 rue des Vignes Romaines  Résidence Bergis		21220	GEVREY-CHAMBERTIN		FRANCE	0676382617	M	121			1986	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-981466			emeric.metrot@gmail.com	0
+MOREAUD	Sylvie	22 TER RUE DE DIJON		21560	ARC SUR TILLE		FRANCE	0626632429	F	122			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-980132			moreaud.sylvie@free.fr	0
+NICKS	Jean Louis	73 rue marcel bourdarias		94140	ALFORTVILLE		FRANCE		M	123			1984	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-975892			jeanlouis.nicks@gmail.com	0
+PEREIRA	Patrick	12 rue des Vignes		71880	CHATENOY LE ROYAL		FRANCE	0610317528	M	124			1976	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985948			pereira.patrick@sfr.fr	0
+PIERRE CHARTRA	Pierre	59 rue Daubenton		21000	DIJON		FRANCE	0682983671	M	125	A63151L		1983	8	Senior	SE	FRA	DIJON TRIATHLON		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-984306			pierrechartra@hotmail.com	0
+PONSONNET	Denis	151 rue du vieux bourg		01290	GRIEGES		FRANCE	0661723893	M	126			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-978487			ponsonnet_denis@yahoo.fr	0
+POPELIER	Agathe	19 rue de la fontaine sainte anne		21000	DIJON		FRANCE	0670453371	F	127			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-983436			popelier.agathe@neuf.fr	0
+POUCHARD	Jean Pierre	résidence le chateau  10 bis rue albert rémy		21370	PLOMBIÈRES LES DIJON		FRANCE	0380430378	M	128			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985583			famillepouchard@orange.fr	0
+POUCHARD	Jessy	résidence le chateau  10 bis rue albert rémy		21370	PLOMBIÈRES LES DIJON		FRANCE	0380430378	M	129			1996	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985584			famillepouchard@orange.fr	0
+POUCHARD	Manon	résidence le chateau  10 bis rue albert rémy		21370	PLOMBIÈRES LES DIJON		FRANCE	0380430378	F	130			1998	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985585			famillepouchard@orange.fr	0
+RENAULT	Laétitia	30 RUE DE BALLERAY		58130	GUERIGNY		FRANCE	0661619149	F	131	1852956		1978	8	Senior	SE	FRA	ASGU	058020	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-979496			titia0709@gmail.com	0
+ROUCHON	Camille	33D2 Boulevard de l'Université		21000	DIJON		FRANCE		F	132			1995	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985481			rouchon.camille.cr@gmail.com	0
+ROUSSEL	Franck	1 chemin de champs devant		52190	VILLEGUSIEN LE LAC		FRANCE		M	133			1998	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985411			carrosserieroussel@bbox.fr	0
+ROUSSEL	Patrick	1 chemin de champs devant		52190	VILLEGUSIEN LE LAC		FRANCE	06.85.40.53.49	M	134			1960	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985408			carrosserieroussel@bbox.fr	0
+RUIZ DE LA FUENTE	Juan Manuel	7, Ruelle Bourg le vicomte		89300	JOIGNY		FRANCE	0782119970	M	135	1742812		1989	8	Senior	SE	FRA	AJA MARATHON	089024	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-983338			juanma_hdh@hotmail.com	0
+SARADIN	François	1 impasse edgar degas		21000	DIJON		FRANCE	0651049474	M	136			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	N	N	N	N	N	00:00:00	LS-IN-983054			francois.saradin@free.fr	0
+SCHERRER	Raphael	9 b rue de tarsul		21110	IZEURE		FRANCE	0689150374	M	137			1985	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984015			raphaelscherrer@icloud.com	0
+SCHERRER	Valeriane	9 b rue de tarsul		21110	IZEURE		FRANCE	0672901320	F	138			1985	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-984017			valb1@hotmail.fr	0
+SCHUFFENECKER	Dominique	18 allée louise Michel		71100	CHALON SUR SAONE		FRANCE	0607753437	F	139			1956	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985814			croirencore@live.com	0
+SEIXO	Miguel	15 lot. Larrey des angles		21140	MASSINGY LES SEMUR		FRANCE	0612285403	M	140	1493328		1978	8	Senior	SE	FRA	SEMUR ATHLETISME AVENTURE	021041	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-984454			migue.12@sfr.fr	0
+SOUSTELLE	Marcel	5, avenue de l'Egalité		21800	CHEVIGNY-ST-SAUVEUR		FRANCE	0679486902	M	141			1959	10	Master 2	V2	FRA	LES LUCIOLES CHEVIGNY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-981072			marcel.soustelle@free.fr	0
+TAUPIN NOËL	Taupin	32 Rue Philippe le Bon		21000	DIJON		FRANCE	+33663532384	M	142			1980	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-981940			noel.taupin@hotmail.fr	0
+AUJOLLET	Nathalie	13 rue des herbuottes		21220	FIXIN		FRANCE		F	143			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987221			nathalie.aujollet@chu-dijon.fr	0
+BAUDE	Yvon	36 Avenue du 8 mai		52800	NOGENT		FRANCE	03.25.31.78.69	M	144			1955	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986068			yvon52800@hotmail.fr	0
+BELLON	Jerome	3 av maréchal lyautey		21000	DIJON		FRANCE	0602632971	M	145			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986522			bellon349@gmail.com	0
+CABRERIZO-TORRES	Juliette	27 rue Elsa Triolet		39500	DAMPARIS		FRANCE		F	146			1995	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986455			juliette.cabrerizo-torres@hotmail.fr	0
+CARRERES	James	6 rue des halles		88300	NEUFCHATEAU		FRANCE		M	147			1984	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987179			james.carreres@hotmail.fr	0
+DESCHAMPS	Michael	60 cours charlemagne		69002	DIJON		FRANCE	0682697727	M	148			1990	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986939			m.deschamps@teamsquare.fr	0
+DUPAS	Fabien	8 rue hyacinthe vincent		21000	DIJON		FRANCE	0650331196	M	149			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986533			fdfabgwada@gmail.com	0
+ENAULT	Christophe	10 rue de la molade		21490	SAINT JULIEN		FRANCE		M	150			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986627			christophe.enault@gmail.com	0
+FAGOT	Alexandre	28 route d'Izeure		21910	NOIRON SOUS GEVREY		FRANCE	0643416332	M	151			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987190			alexfag@wanadoo.fr	0
+FAVAUT	Daniel	3 Rue Colonel Ballet		21600	LONGVIC		FRANCE	0670519458	M	152			1977	8	Senior	SE	FRA	ASSIM TYCO		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-986093			christelleetdaniel@hotmail.com	0
+GEAY	Maud	23 rue du potet		21270	VONGES		FRANCE	06.64.28.92.27	F	153			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986548			geay21@hotmail.fr	0
+GIRAUDIER	Elodie	14 rue Restif de La Bretonne		21000	DIJON		FRANCE	0609789195	F	154	1686415		1981	8	Senior	SE	FRA	AC CHENÔVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-986187			elodie.giraudier@gmail.com	0
+GIRONDEAU	Florent	12B Route de Savigny		21380	MARSANNAY LE BOIS		FRANCE		M	155			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987259			florent.girondeau@gmail.com	0
+JAMMAS	Colette	10 rue de bretagne		52800	MANDRES LA COTE		FRANCE	03.25.03.01.84	F	156			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986001			colette.jammas@wanadoo.fr	0
+LAPLANCHE	Dominique	13 rue henri Darcy		21850	SAINT APOLLINAIRE		FRANCE	0380781905	M	157			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987027			babeth.laplanche@wanadoo.fr	0
+LECLERE	Guillaume	3 rue des Glycines		21121	FONTAINE LES DIJON		FRANCE		M	158	1379642		1979	8	Senior	SE	FRA	A C CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-986007			guillaumeleclere@netcourrier.com	0
+LERCIER	Louis	Sivry		71360	SAISY		FRANCE		M	159			1993	8	Senior	SE	FRA	CHEVIGNY ST SAUVEUR HB		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-986986			lercier.louis@aliceadsl.fr	0
+LONGO	Sandrine	19 A rue marechal franchet d'esperey		21000	DIJON		FRANCE	0631294908	F	160			1986	8	Senior	SE	FRA	GROUPE SMA		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987204			sandlg21@laposte.net	0
+LUCAS	Arnaud	22 rue de la barrière		21120	TILCHATEL		FRANCE	+33684462301	M	161			1988	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986746			arnaudlucas@hotmail.fr	0
+MANGIN	Pascal	7 rue saint andéol		21490	BELLEFOND		FRANCE		M	162			1963	10	Master 2	V2	FRA	AJVN		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-985986			mobydisk21@gmail.com	0
+MARIE	Sébastien	2 rue de Darois		21370	PRENOIS		FRANCE	0671855099	M	163			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986705			parly89@orange.fr	0
+MARONNAT	Evelyne	30, boulevard Maréchal Joffre  Bâtiment OF1 - Appartement 13		21000	DIJON		FRANCE	0380537765	F	164			1962	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986050			serge.maronnat@neuf.fr	0
+MARONNAT	Serge	30, boulevard Maréchal Joffre  Bâtiment OF1 - Appartement 13		21000	DIJON		FRANCE	0380537765	M	165			1960	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986047			sergmaro@club-internet.fr	0
+MARTIN	Loic	13 rue des herbuottes		21220	FIXIN		FRANCE	0786184491	M	166			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987186			martin.loichot@orange.fr	0
+MARTIN	Marinette	13 rue des herbuottes		21220	FIXIN		FRANCE	0786184491	F	167			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987191			marinettemartin4@orange.fr	0
+MINDER	Nadege	3 av marechal lyautey		21000	DIJON		FRANCE	0602632971	F	168			1984	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986525			bellon349@gmail.com	0
+MONCHARMONT	Philippe	15, rue de la fontaine billenois		21000	DIJON		FRANCE	0380399583	M	169			1966	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986620			philippe.moncharmont@gmail.com	0
+MONNIN	Francois	11 rue Raoul de Saint Seine		21000	DIJON		FRANCE		M	170			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986723			monninfrancois@yahoo.fr	0
+MONOT	Sébastien	5 Rue D Echirey		21490	BELLEFOND		FRANCE	+33663716523	M	171			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986830			sebmonot21490@gmail.com	0
+MOREAUX	Denis	30 rue des commes  Logement n°08		58160	IMPHY		FRANCE	0664629336	M	172			1975	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986744			moreaux.denis@orange.fr	0
+PICARD	Julien	11 rue george musy		71100	SAINT REMY		FRANCE	0685480306	M	173			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987082			juju7117@free.fr	0
+PRÉVOST	Yohann	14 rue du Ternin		71400	TAVERNAY		FRANCE		M	174			1993	8	Senior	SE	FRA	JUVIGNAC HANDBALL		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-986981			yohann-prevost@sfr.fr	0
+RENOU	Stéphane	17 rue du vent d'Autan		21110	GENLIS		FRANCE		M	175			1968	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986553			strenou@free.fr	0
+REYNAUD JEAN	Reynaud	18 rue de belloguet		21000	DIJON		FRANCE	0624897730	M	176			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-986880			jeanreynaud@club-internet.fr	0
+PAWKA MONNOT	Anne-Laure								F	177			1977	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	N	N	N	N	N	00:00:00				n.pawka@orange.fr	0
+DANTON	Thierry								M	178			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				thierrydanton@free.fr	0
+POZZOBON	Alain	17 rue Général Jarrot		21700	NUITS SAINT GEORGES		France		M	179			1961	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	FOULEEE CHATILLONNAISE	O	N	O	N	N	N	N	N	00:00:00				christalain1978@orange.fr	0
+DAUTREY	Hervé								M	180			1966	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				herve.dautrey@laposte.net	0
+MARLOT	SYLVAIN						FRANCE		M	181	1088079	COMP	1974	9	Master 1	V1	FRA	LOUHANS AC	071007	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				vanessa263@orange.fr	0
+RENAUD	Thomas								M	182			1986	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				bigwarel@hotmail.com	0
+DUMONT	David								M	183			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	TERRE DE RUNNING	O	N	O	N	N	N	N	N	00:00:00				dumont.david@bbox.fr	0
+GAUTHEY	Sylvain								M	184			1982	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nath.sylvain@hotmail.fr	0
+NIDIAU	Corinne			71xxx					F	185	1155827	LOISR	1969	9	Master 1	V1	FRA	SA AUTUN	071025	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				cornid@wanadoo.fr	0
+MERCIER	Sophie								F	186			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				sophiethibaut@hotmail.fr	0
+GODFROY	Philippe								M	187			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				pgodfroy@orange.fr	0
+GODFROY	Mylène								F	188			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				pgodfroy@orange.fr	0
+GODFROY	Pol								M	189			1999	5	Cadet	CA	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				pgodfroy@orange.fr	0
+JACQUET	Daniel								M	190			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00				daniel.jacquet212@orange.fr	0
+CALLIER	Georges								M	191			1964	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				georges.callier@gmail.com	0
+FABIEN DURIAU	Fabien	1 allée des Jardins  lgt 2		21800	QUETIGNY		FRANCE	0609174679	M	192			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987541			duriau.fabien@gmail.com	0
+GIULIANI	Audrey	1 allée des Jardins  lgt 2		21800	QUETIGNY		FRANCE	0658493425	F	193			1980	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987544			audrey1507@live.fr	0
+GUILLOT	Patrice	1 rue majnoni d'intignano		21121	FONTAINE LES DIJON		FRANCE		M	194			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987625			guillotpat@yahoo.fr	0
+JOANNES	Myriam	8 bis rue de la boguette		21700	QUINCEY		FRANCE	0631670160	F	195			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987783			myriamjoannes21700@free.fr	0
+MORITZ	Jonathan	14 Av. Alain Savary, Bat. Vauban, Lgt. 225		21000	DIJON		FRANCE	0695478644	M	196			1991	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987812			a1104004@unet.univie.ac.at	0
+OLLIN	Claude	4,chemin de la chapelle cidex 23bis		21400	ST COLOMBE SUR SEINE		FRANCE	0686932054	M	197			1967	9	Master 1	V1	FRA	LA FOULEE CHATILLONNAISE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987518			ollinson@sfr.fr	0
+OLLIN	Emmanuelle	4,chemin de la chapelle cidex 23bis		21400	ST COLOMBE SUR SEINE		FRANCE		F	198			1971	9	Master 1	V1	FRA	LA FOULEE CHATILLONNAISE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987523			Manuaz@sfr.fr	0
+PEPIN	Jonathan	10 bis rue Albert rémy		21370	PLOMBIERES		FRANCE	0668974995	M	199			1989	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987981			spepin@wanadoo.fr	0
+SIMONOT	Raymond	39 avenue de la republique		21800	CHEVIGNY ST SAUVEUR		FRANCE	0648266770	M	200			1987	8	Senior	SE	FRA	LUCIOLES DE CHEVIGNY SAINT SAUVEUR		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987862			raymond_simonot@hotmail.com	0
+SOMMANT	Anne Laure	5 RUE DU ROO		21120	FRENOIS		FRANCE	0662185146	F	201			1984	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987753			alsommant@gmail.com	0
+TOBIAS	Anne Catherine	49 bis avenue des Alliés		25200	MONTBÉLIARD		FRANCE		F	202			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987990			annecat178@gmail.com	0
+VERPEAUX	Anne	10 route d'Epagny		21380	MARSANNAY LE BOIS		FRANCE	0647353030	F	203			1955	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987893			anne.verpeaux@wanadoo.fr	0
+VERPEAUX	Jean	10 route d'Epagny		21380	MARSANNAY LE BOIS		FRANCE	0670700650	M	204			1961	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987878			jean.verpeaux@wanadoo.fr	0
+VERPEAUX	Pierre	10 route d'Epagny		21380	MARSANNAY LE BOIS		FRANCE		M	205			1995	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987894			jean.verpeaux@wanadoo.fr	0
+VIARD	Charly	rue Davot		21130	AUXONNE		FRANCE	0618640474	M	206			1985	8	Senior	SE	FRA	ACRAUX		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987698			charly.viard@hotmail.fr	0
+WALINE	Marion	1 rue de la petite fin		21410	ANCEY		FRANCE		F	207			1994	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987997			marionwaline@gmail.com	0
+CORDIER	Francis	chemin de meuilley		21220	CHEAVNNES		FRANCE	0380353691	M	208			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	N	N	N	N	N	00:00:00	LS-IN-988180			sandrine.cordier956@orange.fr	0
+RENAULT	Emma	2B rue Aimé Césaire		21800	CHEVIGNY SAINT SAUVEUR		FRANCE	0619227452	F	209			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988101			emma.renault@sfr.fr	0
+ROBLOT	Arnaud	8 rue des Croillerans		21121	DAIX		FRANCE	0647549277	M	210			1991	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988129			arnaud207tuning@orange.fr	0
+STOËSZ	Pauline	27 bis rue des forges		21460	EPOISSES		FRANCE	0607795026	F	211			1989	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988188			pauline.stoesz@laposte.net	0
+TOUBLANC	Hervé	4 rue du clos Voillemin		52000	CHAUMONT		FRANCE	0787616005	M	212			1975	9	Master 1	V1	FRA	ESOG CHAUMONT		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988183			herveosteo52@orange.fr	0
+POULET	Hubert								M	213			1954	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				hubertpoulet@hotmail.fr	0
+CHATTEY	Emeric						FRANCE		M	214	351857	COMP	1986	8	Senior	SE	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+ROBERT	Christian								M	215			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				robertchristian@outlook.fr	0
+EYMARD	Antonin								M	216			1990	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+BOM	Natacha								F	217			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nat.chacha@hotmail.fr	0
+BONNET	Jacques								M	218			1953	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				annieetjacquesbonnet@yahoo.fr	0
+DENUIT	Guillaume								M	219	1793871	COMP	1987	8	Senior	SE	FRA	S/L LANGRES	052011	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				guillaumedenuit@aol.com	0
+DOUSSOT	Yves								M	220			1955	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+LAMBERT	Olivier								M	221			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				olivier.lambert@luxinet.fr	0
+LAMBERT	Hugo								M	222			1999	5	Cadet	CA	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				olivier.lambert@luxinet.fr	0
+PICOT	Benjamin								M	223			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				benchmt@hotmail.com	0
+PATO	Fernando	6 Rue Des Marguerites		21600	LONGVIC		France		M	224			1954	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+COURTOIS	Mickaël								M	225			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				courtois.mike@hotmail.fr	0
+MILLET	Baudoin								M	226			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				baudoin@chablis-millet.com	0
+NEYRAUD	Eric								M	227			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ADAS-INRA	O	N	O	N	N	N	N	N	00:00:00				eneyraud@yahoo.fr	0
+MERCIER	Bruno								M	228			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				fmbp@free.fr	0
+MERCIER	Fabienne								F	229			1968	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				fmbp@free.fr	0
+BONDOT	Stéphane	17 Rue Raoul de Juigne		21000	DIJON		FRANCE	0625168187	M	230			1985	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988200			stephane.bondot@gmail.com	0
+CHARAOUI	Said	5bis rue jules guesde		21600	LONGVIC		FRANCE		M	231	AC52268C		1969	9	Master 1	V1	FRA	DIJON TRIATHLON		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988238			charaoui.said@neuf.fr	0
+COLIN	Landry	4 ruedes frenes		21310	BELLENEUVE		FRANCE	0674076239	M	232			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988319			landry.colin@orange.fr	0
+COLLINOT	Florent	52 route national 151		89580	GY LEVEQUE		FRANCE		M	233			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988291			poupee.patrice@neuf.fr	0
+MAURICE	Benoît	9 B avenue de l'Aigue		21200	BEAUNE		FRANCE		M	234	1837279		1997	6	Junior	JU	FRA	ARNAY	021034	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988292			benmaurice@free.fr	0
+MAURICE	Ralph	9 B, avenue de l'Aigue		21200	BEAUNE		FRANCE	0662803040	M	235			1966	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988293			ralph.maurice@free.fr	0
+POUPEE	Patrice	1 rue de la maladiere		89200	AVALLON		FRANCE		M	236	1845133		1985	8	Senior	SE	FRA	ATLHETIC CLUB AVALLON (YAC)		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988288			poupee.patrice@neuf.fr	0
+STEPHAN	Martine	5 bis rue jules guesde		21600	LONGVIC		FRANCE		F	237			1980	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988250			charaoui.said@neuf.fr	0
+CHAFIK	Jbart								M	238	1768444	COMP	1977	8	Senior	SE	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				dijonais77@live.fr	0
+PICARD	Carole								F	239			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				carole.jean-michel.picard	0
+POISSON	Florian								M	240			1989	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+LUGA	Jean								M	241			1949	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+MOINGEON	Guy								M	242			1947	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				guy.moingeon	0
+TENSORIER	Marie-Hélène								F	243			1959	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ASVEC À TOUTES JAMBES	O	N	O	N	N	N	N	N	00:00:00				tenso.350@hotmail.fr	0
+REMY	Jérôme								M	244			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CAC 39	O	N	O	N	N	N	N	N	00:00:00				jerome.remy@bbox.fr	0
+GRABER	Alain	12 Rue Du Lac		21250	SEURRE		France		M	245	A70638L		1972	9	Master 1	V1	FRA	TRIATHLON CLUB SEURROIS		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				alain.graber@orange.fr	0
+BOUTEILLE	Sandra								F	246			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				sandrabouteille@hotmail.fr	0
+GIBASSIER	Sarah								F	247			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				sarah.gibassier@sfr.fr	0
+MARANDE	Delphine								F	248			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				delphimarande@orange.fr	0
+PAUTET	Frédérique								F	249			1962	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				pautet.frédérique@wanadoo.fr	0
+DEPLANQUE	Daniel	46 rue du Moulin à Vent		52200	SAINTS-GEOSMES		FRANCE	0631607110	M	250	923866		1955	11	Master 3	V3	FRA	S/L LANGRES AC SUD HT MARNAIS	052011	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988371			daniel.deplanque@wanadoo.fr	0
+LEFOL	Damaris	12 lot le plain des bois		71350	ST LOUP GEANGES		FRANCE	0978233094	F	251			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988366			damaris.lefol@laposte.net	0
+LEFOL	Jean Christophe	12 lot le plain des bois		71350	ST LOUP GEANGES		FRANCE	0978233094	M	252			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988373			damaris.lefol@laposte.net	0
+MONTOLOY	Claire	1 IMPASSE DU COTEAU  CIDEX 5 TER		21550	LADOIX-SERRIGNY		FRANCE	0682450281	F	253			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988365			montoloy_claire@yahoo.fr	0
+BONNOT	Aline	3 rue beaumarchais		21000	DIJON		FRANCE		F	254			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988529			alinebonnot@yahoo.fr	0
+BOUVIER	Noemie	7 RUE ANATOLE FRANCE		21300	CHENOVE		FRANCE	0672345745	F	255	1768605		1981	8	Senior	SE	FRA	ACC	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988432			n.bouvier@cabinetcedre.fr	0
+COULON	Michael	5 allée du poirier bénit		21310	BLAGNY SUR VINGEANNE		FRANCE	0608471671	M	256			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988448			sougalie@gmail.com	0
+DANGIEN	Clarisse	14 rue Gilbert Bécaud		21800	CHEVIGNY- SAINT- SAUVEUR		FRANCE	0689031015	F	257			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988424			stephan.dangien@orange.fr	0
+LARDIN	Philippe	1, rue de l'église		89310	PASILLY		FRANCE	0609033369	M	258	1216176		1959	10	Master 2	V2	FRA	AJA MARATHON	089024	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988526			phlardin@gmail.com	0
+LEGROS	Laurent	19 rue de plantenay		21310	BEAUMONT SUR VINGEANNE		FRANCE	0626974472	M	259			1965	10	Master 2	V2	FRA	COUREUR DE LA VINGEANNE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988601			earllegros@orange.fr	0
+SAUVAGE	Frédéric	7A allée JB MATHEY		21000	DIJON		FRANCE	06 76 12 17 63	M	260	A36921C0040660MV3FRA		1962	10	Master 2	V2	FRA	CHENÔVE TRIATHLON CLUB		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988436			chabote.sauvage@orange.fr	0
+TIVERRIER	Ludovic	10 ALLEE DES PERRIERES ROUGES		21310	BELLENEUVE		FRANCE	0611498922	M	261			1961	10	Master 2	V2	FRA	LES COUREURS DE LA VINGEANNE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988566			ludovic.tiverrier@dbmail.com	0
+BARRIERE	Jean Luc	2 allée du Roussillon		21000	DIJON		FRANCE	0684283111	M	262	673610		1954	11	Master 3	V3	FRA	ATHLE 21 AO ARNETOISE	021034	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988718			jl.barriere@laposte.net	0
+BIGUEUR	Eric	1 rue du Clozeau		71350	ST LOUP-GEANGES		FRANCE		M	263	T197174		1967	9	Master 1	V1	FRA	CAC 39		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988779			eric.bigueur@laposte.net	0
+CHALANCON	Nathalie	60 rue des magnolias		21200	BEAUNE		FRANCE		F	264			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988692			emn21@orange.fr	0
+GRENIER	Nicolas	11 rue Alexandra David Neel		21800	QUETIGNY		FRANCE	0783714421	M	265			1972	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988688			nicolasgrenier@me.com	0
+MARTENOT	Florent	8 ruelle de la cure		21110	VARANGES		FRANCE	0623793017	M	266			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988744			fmartenot@gmail.com	0
+MORIN	Didier	11 rue au Motet		21121	ETAULES		FRANCE	0380404865	M	267			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988683			didiermorin2@wanadoo.fr	0
+PINTO	Philippe	Chemin du Puits Perdu		21120	MARCILLY/TILLE		FRANCE	0632391412	M	268			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988624			philippe-pinto@live.fr	0
+QUINQUET DE MONJOUR	Laure	79 RUE CHABOT CHARNY		21000	DIJON		FRANCE	0603564533	F	269			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988751			demonjour.el@neuf.fr	0
+URSIN	Stéphanie	4 Rue Neuve		21110	MAGNY SUR TILLE		FRANCE	0611966161	F	270			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988736			stephursin@hotmail.fr	0
+RABIET	FREDERIC			21xxx			FRANCE		M	271	1040965	LOISR	1971	9	Master 1	V1	FRA	ACR DIJON	021038	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	O	O	N	N	N	N	N	00:00:00					0
+GRILLET	Maryse								F	272			1966	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				maryse.grillet21@gmail.com	0
+PREVOST	François								M	273			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				fanfan-du-21@hotmail.fr	0
+CHOPPIN	Patrice								M	274			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				cecilia.choppin@orange.fr	0
+GILET	Laura								F	275			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				lauragilet71@gmail.com	0
+ROGER	Pierre	6 ter rue des Poussots		21000	DIJON		France		M	276			1929	13	Master 5	V5	FRA	RUNNING CLUB DIJONNAIS		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				p.roger21@orange.fr	0
+ANGLOMA	Dimitri								M	277			1977	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				dimi.anglo@hotmail.fr	0
+ARROT	Rene	11 Rue Des Voiliers La Liez		52200	PEIGNEY		France		M	278	732063	COMP	1942	12	Master 4	V4	FRA	S/L LANGRES AC SUD AT MARNAIS	522011	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+BERTAUT	Jean Noel	Chemin De La Borde		21610	FONTAINE FRANCAISE		France		M	279			1962	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				jn.bertaut@gmail.com	0
+DUSSIEUX	Jacques	43 Rue De L'Île		21000	DIJON		France		M	280			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				dussieux.jacques@orange.fr	0
+NAUDET	Marie-Laure								F	281			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				mlnaudet3@gmail.com	0
+BLUSSEAU	Anneliese	25 rue de Chateaubriand		21000	DIJON		FRANCE		F	282			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988869			annelieseraout@hotmail.com	0
+BROIN	Romain	24 allée vivaldi		21370	VELARS SUR OUCHE		FRANCE	0629490557	M	283			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988950			romain.broin@free.fr	0
+DECHY	Frédéric	3 rue de l'église		89250	SEIGNELAY		FRANCE	0689163979	M	284	T237942		1976	9	Master 1	V1	FRA	PASS'RUNNING		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988902			fredericdechy@hotmail.fr	0
+DUREDON	Claude	7, les jardins de Barmont		18500	MEHUN SUR YÈVRE		FRANCE	0687833035	M	285	984754		1962	10	Master 2	V2	FRA	CA FOECY	018016	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988799			claude.duredon@sfr.fr	0
+FEUCHOT	Benoit	5 rue chanoine kir		21800	SENNECEY LES DIJON		FRANCE	0788200269	M	286	1756834		1975	9	Master 1	V1	FRA	LES FURETS D EIFFAGE	078158	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988973			Benoit.feuchot@live.fr	0
+JOURDAIN	Luc	7 rue du comté		39700	ROMANGE		FRANCE	0611324387	M	287			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988819			luc.jourdain@orange.fr	0
+KERROUM	Cathy	32 rue andre chenier		21600	LONGVIC		FRANCE	0637580578	F	288			1965	10	Master 2	V2	FRA	COURIR À SENNECEY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988934			cathy.kerroum@hotmail.fr	0
+MAGNIER	Frederic	11 rue de la lunette		10200	LIGNOL LE CHATEAU		FRANCE	0674938079	M	289	481173		1961	10	Master 2	V2	FRA	CABB	010020	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988945			frederic.magnier10@orange.fr	0
+MERLE	Antoine	5 rue Charles Poisot		21300	CHENOVE		FRANCE		M	290			1988	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989002			antoine.merle@sfr.fr	0
+MOUREAU	Franck	9 rue des ribottées		21000	DIJON		FRANCE	0637050931	M	291			1993	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988926			franckmoureau84@hotmail.fr	0
+PASSOT	Jade	7 bis ruelles des plateaux		21700	NUITS-SAINT-GEORGES		FRANCE	0782881071	F	292			1999	5	Cadet	CA	FRA	NUITS COURSE À PIED		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988804			jade.florette.passot@gmail.com	0
+PILLOT	Stephanie	2 rue tournante, hameau de Serve		21230	LACANCHE		FRANCE	0603443094	F	293			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988948			pillotstef@orange.fr	0
+ROMAIN	Valentin	6 Rue Max Blondat		89000	AUXERRE		FRANCE		M	294			1982	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988861			tintin89000@hotmail.com	0
+MONTENOT	Yamina								F	295	1775865	COMP	1960	10	Master 2	V2	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+PAGE	Delphine								F	296	1834644	COMP	1970	9	Master 1	V1	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+FLACELIERE	Olivier						FRANCE		M	297	1491283	LOISR	1963	10	Master 2	V2	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+OBRECHT	Philippe						FRANCE		M	298	1620078	LOISR	1966	10	Master 2	V2	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+SIDI YEKHLEF	Yacine								M	299	1694317	COMP	1998	6	Junior	JU	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+MEUZARD	Dominique						FRANCE		F	300	1150314	COMP	1958	10	Master 2	V2	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GROSPERRIN	Philippe						FRANCE		M	301	1582664	LOISR	1970	9	Master 1	V1	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GROSPERRIN	Anne-Laure						FRANCE		F	302	1498005	LOISR	1971	9	Master 1	V1	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GROSPERRIN	Adrien								M	303	1447343	COMP	1998	6	Junior	JU	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GROSPERRIN	Joanny						FRANCE		M	304	1321819	COMP	2000	5	Cadet	CA	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+JACQUIN	Odile						FRANCE		F	305	1539586	LOISR	1988	8	Senior	SE	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+BULLIOT	Lydie						FRANCE		F	306	1619304	LOISR	1977	8	Senior	SE	FRA	ASSOCIATION BEAUNE ATHLETISME	021035	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+ANDRES	Joachim	14 rue du Roy Gontran		71100	CHALON SUE SAÔNE		FRANCE	0770301799	M	307			1960	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989037			andres.joachim@neuf.fr	0
+MORETTI	Gwénaëlle	3 G rue du 26ème Dragons		21000	DIJON		FRANCE		F	308			1981	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989034			gwenaelle2408@free.fr	0
+LAVALLE	Aline								F	309	1798974	COMP	1980	8	Senior	SE	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+CONXICOEUR	ALAIN						FRANCE		M	310	289794	COMP	1963	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+THEVENIN	CHRISTELLE						FRANCE		F	311	1641737	COMP	1970	9	Master 1	V1	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+SAUVAGEOT	BERNARD						FRANCE		M	312	805998	COMP	1947	11	Master 3	V3	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+REMOND	FREDERIC						FRANCE		M	313	1039851	COMP	1964	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+SCHNEGG	Lucas	11 Allee Du Pigeonnier		21490	ORGEUX		France		M	314	1660990	COMP	1997	6	Junior	JU	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+TREVISAN	Patrice	52 Rue Stephen Liegeard		21800	CHEVIGNY SAINT SAUVEUR		France		M	315	1844357	COMP	1957	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+SPRINGINSFELD	Ingrid								F	316	1849927	COMP	1979	8	Senior	SE	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+VASSARD	FRANCOIS						FRANCE		M	317	377376	COMP	1974	9	Master 1	V1	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+BELDJILALI	Abdelhamid								M	318	1847661	COMP	1963	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GENOT	JEAN-CLAUDE						FRANCE		M	319	1241042	COMP	1961	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+AHMED-BELKACEM	ABDELKADER						FRANCE		M	320	1427616	COMP	1959	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+GIDA	Valentin	1 Rue Des Vergers		21610	CHAUME ET COURCHAMP		France		M	321			1997	6	Junior	JU	FRA	VINGEANNE'S TEENAGERS		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00				sebmonot@live.fr	0
+FRONTIER	Alexandra			21xxx					F	322			1997	6	Junior	JU	FRA	VINGEANNE'S TEENAGERS		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00					0
+LAHILLE	Adrien			21xxx					M	323			1997	6	Junior	JU	FRA	VINGEANNE'S TEENAGERS		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00					0
+MONOT	Sebastien	2 Chemin Du Pre De La Cour		21610	LICEY SUR VINGEANNE		France		M	324		COMP	1974	9	Master 1	V1	FRA	TRI VAL DE GRAY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00				sebmonot@live.fr	0
+BREAUDAT	Emilie	12 Boulevard de l'Université		21000	DIJON		FRANCE	0680856293	F	325			1990	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989057			breaudat.emilie@orange.fr	0
+DAMIDOT	Virginie	5 allée des chênes		21380	ASNIÈRES LES DIJON		FRANCE	0608616026	F	326			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989070			damidotvirginie@gmail.com	0
+MALLARD	Marine	23 B rue Louis Blanc		21000	DIJON		FRANCE		F	327			1987	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989073			marine.mallard@laposte.net	0
+VIGNAUD	Nicolas	16 rue du lavoir		21910	BARGES		FRANCE		M	328			1984	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989074			nykonos@orange.fr	0
+WLODARCZYK	Mickaël	3 IMPASSE SOPHIE GRANGIER		21110	BESSEY LES CITEAUX		FRANCE	0687184445	M	329			1986	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989077			mickael.wlodarczyk@gmail.com	0
+DARRAS	Marie	15 rue Neuve Bergère		21000	DIJON		FRANCE	0666595633	F	330			1987	8	Senior	SE	FRA	MJC GRÉSILLES		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-989091			midgepup@wanadoo.fr	0
+GENAY	Nadine	15 AVENUE SAINT EXUPERY		21800	CHEVIGNY SAINT SAUVEUR		FRANCE	0658485402	F	331			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989080			genay.jeanpaul@bbox.fr	0
+BONNARDEL	Xavier	2 rue du pays neuf		21760	LAMARCHE SUR SAONE		FRANCE	0614205938	M	332			1982	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	O	N	N	N	N	00:00:00	LS-IN-989225			xavier.bonnardel@sfr.fr	0
+DURUPT	Sylvie	3A RUE DU PONT		21410	MÂLAIN		FRANCE	0603507995	F	333			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989168			vivipilot@orange.fr	0
+GALLIMARD	Jordan	8 route de la combe gissey		21120	VERNOT		FRANCE		M	334			1990	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989157			jordan.gallimard@gmail.com	0
+GARNIER	Hervé	1 rue des corbaulées		21240	TALANT		FRANCE		M	335			1964	10	Master 2	V2	FRA	AJVN		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	O	N	N	N	N	00:00:00	LS-IN-989182			hgarnier11@gmail.com	0
+LAUTISSIER	Paula	2 rue marcel paupion		21000	DIJON		FRANCE	0380411089	F	336			1997	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989222			jl.lautissier@wanadoo.fr	0
+LOMBARD	Ludovic	16 rue des dames fines		21121	AHUY		FRANCE	0611559208	M	337			1979	8	Senior	SE	FRA	AJVN		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	O	N	N	N	N	00:00:00	LS-IN-989180			fraggleludo@gmail.com	0
+NOPPE	Thomas	5 rue jb morlot		21000	DIJON		FRANCE		M	338	1755812		1987	8	Senior	SE	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	O	N	N	N	N	00:00:00	LS-IN-989118			crocro43@hotmail.com	0
+OLIVEIRA	Christophe	39 rue Jean Sans-Peur		21110	ROUVRES-EN-PLAINE		FRANCE	0658571813	M	339			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989159			oliveira.christophe@free.fr	0
+PETIOT	Charly	365 chemin de rochette		39210	DOMBLANS		FRANCE		M	340			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989103			Charly.petiot@gmail.com	0
+ROUSSEY	Alain	3 RUE DE LA FIN DE CHENE		21410	GERGUEIL		FRANCE	0689094350	M	341			1964	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	O	N	N	N	N	00:00:00	LS-IN-989109			rousseyalain21@orange.fr	0
+ROUSSEY	Nicole	3 RUE DE LA FIN DE CHENE		21410	GERGUEIL		FRANCE	0684482571	F	342			1965	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989107			nicoleroussey@wanadoo.fr	0
+SEJOURNANT	Thomas	18 BOULEVARD REMBRANDT		21000	DIJON		FRANCE	0612457196	M	343	A62009C		1986	8	Senior	SE	FRA	DIJON SINGLETRACK		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	O	N	N	N	N	00:00:00	LS-IN-989167			thomas.sejournant@gmail.com	0
+REMOND	PASCAL						FRANCE		M	344	476269	COMP	1957	10	Master 2	V2	FRA	ASPTT DIJON ATHLETISME	021032	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	10 km	10,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+VALLAZ	Yves								M	901			1954	11	Master 3	V3	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	FOULEE CHATILLONNAISE	O	N	O	N	N	N	N	N	00:00:00					0
+DOUARE	Antonin								M	902	1686496	COMP	2000	5	Cadet	CA	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				famille.douare@live.fr	0
+MESSOUSSA	Yanis								M	903			1996	7	Espoir	ES	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				yanis-messoussa@hotmail.fr	0
+MESSOUSSA	Mehdi								M	904			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				mes.mehdi@yahoo.fr	0
+LOEUILLET	Ghislaine								F	905			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+CASTELLA	Pierre						FRANCE		M	906	1563541	COMP	2000	5	Cadet	CA	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				nathaliecastella@sfr.fr	0
+PETIT	Emmanuelle								F	907			1999	5	Cadet	CA	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				petit.emmanuelle@gmail.com	0
+CHOLLET	Sabine	8, lotissement des chenes		25320	CHEMAUDIN		FRANCE	0381585589	F	908			1963	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-976950			cholletyv@orange.fr	0
+GIMENEZ	Martine	8 allée des champs communaux		21121	FONTAINE LES DIJON		FRANCE	0672244150	F	909			1957	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-980483			gimenezal@wanadoo.fr	0
+HUGUES	Michaël	8 B rue Fournerat		21000	DIJON		FRANCE	0638561478	M	910			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987068			mhugues92@gmail.com	0
+LAVAUX	Michael	84 ter route de dijon		21470	BRAZEY EN PLAINE		FRANCE	0683214852	M	911			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-985778			mika.lavaux@hotmail.fr	0
+ROUDITCH	Sonia	8 B rue Fournerat		21000	DIJON		FRANCE	0629242795	F	912			1977	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987065			sonia.rouditch@sfr.fr	0
+CALLIER	Isabelle								F	913			1962	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				isa.z.aza@orange.fr	0
+MATA	Aurélie								F	914			1992	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				aurelie.mata@gmail.com	0
+ALBEJANO	Marie Charlotte	3 Rue Thérèse Figueur		21000	DIJON		FRANCE	0777940569	F	915			1986	8	Senior	SE	FRA	ENVY EPINAY SOUS SENART		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987819			missjordan5@hotmail.com	0
+BLOCHET	Tanguy	53B RUE DU FAUBOURG RAINES		21000	DIJON		FRANCE	0633136890	M	916			1997	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987909			evadessartine94@gmail.com	0
+DESSARTINE	Eva	53B RUE DU FAUBOURG RAINES		21000	DIJON		FRANCE	0633136890	F	917			1998	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-987903			evadessartine94@gmail.com	0
+SEGUIN	Alexia	39, avenue de la République		21800	CHEVIGNY SAINT SAUVEUR		FRANCE	0620707615	F	918			1989	8	Senior	SE	FRA	LES LUCIOLES DE CHEVIGNY		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-987866			alexia_seg87@hotmail.com	0
+FLEURIET	Sabrina								F	919			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				fleuriet.sabrina@wanadoo.fr	0
+PIGETVIEUX	Vincent								M	920			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	O	O	N	N	N	N	N	00:00:00				vincent.pigetvieux@hotmail.fr	0
+CAMBAZARD	Arnaud	50 rue Léon Gambetta		21300	CHENOVE		FRANCE	0607184493	M	921	1339120		1999	5	Cadet	CA	FRA	ACCHENOVE		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988315			thierry-21@sfr.fr	0
+COLLINOT	Florent	52 route national 151		89580	GY LEVEQUE		FRANCE		M	922			1967	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988301			poupee.patrice@neuf.fr	0
+POUPEE	Patrice	1 rue de la maladiere		89200	AVALLON		FRANCE		M	923	1845133		1985	8	Senior	SE	FRA	ATLHETIC CLUB AVALLON (YAC)		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988297			poupee.patrice@neuf.fr	0
+BOUTRELLE	Camille	1 rue du marechal foch		21120	IS SUR TILLE		FRANCE	0602298852	F	924	1430181		1998	6	Junior	JU	FRA	COUREURS SUR ROUTE CÔTE D'OR	021039	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988465			camille21120@live.fr	0
+BOUTRELLE	Sabine	1 rue du marechal foch		21120	IS SUR TILLE		FRANCE	0651652661	F	925			1971	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988461			sabi.bou@hotmail.fr	0
+FRANCOIS	Anne	11 Rue aux grands journaux		21850	SAINT-APOLLINAIRE		FRANCE		F	926			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988617			anne_francois21@hotmail.com	0
+FRANCOIS	Christophe	11 Rue aux grand journaux		21850	SAINT-APOLLINAIRE		FRANCE		M	927			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988615			galliwok@free.fr	0
+TARIKET	Moustapha								M	928	833602	COMP	1965	10	Master 2	V2	FRA	AC MIRAMAS	013	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				nathalie.brunet13@orange.fr	0
+PIQUARD	Pascal								M	929			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+PIQUARD	Christelle								F	930			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+LEPETIT	Léo								M	931			1998	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00					0
+COULAUD	Marie	cour du chateau		21700	FUSSEY		FRANCE	0634396484	F	932			1983	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988761			marie.coulaud@icloud.com	0
+DUREDON	Josiane	7, les jardins de Barmont		18500	MEHUN SUR YÈVRE		FRANCE	0682186040	F	933			1960	10	Master 2	V2	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988780			claude.duredon@sfr.fr	0
+BRIERE	Matthieu	7 rue Gemelot		21120	GEMEAUX		FRANCE		M	934			1978	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988952			mattbriere@laposte.net	0
+GUIGUE	Clémence	7 bis rue de la montée du clos		21490	VAROIS ET CHAIGNOT		FRANCE		F	935			1987	8	Senior	SE	FRA	AC TALANT		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988995			guigue.clemence@gmail.com	0
+LAUBEPIN	Bruno	15 rue du 19 Mars 1962		21800	CHEVIGNY-SAINT-SAUVEUR		FRANCE	0686106938	M	936			1971	9	Master 1	V1	FRA	DS SMITH		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ENTREPRISE	O	N	O	N	N	N	N	N	00:00:00	LS-IN-988924			bruno.laubepin@club-internet.fr	0
+LAUBEPIN	Laurence	15 rue du 19 Mars 1962		21800	CHEVIGNY-SAINT-SAUVEUR		FRANCE	0683244830	F	937			1970	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-988927			bruno.laubepin@club-internet.fr	0
+MAITRET	Cyrille								M	938			1973	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				cyril.maitret@orange.fr	0
+MAITRET	Sandrine								F	939			1974	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				cyril.maitret@orange.fr	0
+BAVEREL	Lucas	9 Rue Jean Moulin		21800	NEUILLY LES DIJON		France		M	940	1217275	LOISR	1996	7	Espoir	ES	FRA	LONS ATHLETIC CLUB		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00				baverel.family@orange.fr	0
+GARCIA	Frederique	8 rue armand Thibaut		21000	DIJON		FRANCE		F	941			1979	8	Senior	SE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	N	N	N	N	N	00:00:00	LS-IN-989031			frederiquegarcia@yahoo.fr	0
+RODET	Camille								F	942	1783195	COMP	2000	5	Cadet	CA	FRA	DUC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+BOULEY	Martin								M	943			1997	6	Junior	JU	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00					0
+BIZOUARD	Arnaud	4 bas des nauts		21410	BARBIREY SUR OUCHE		FRANCE	0615221246	M	944	29884-2016		1971	9	Master 1	V1	FRA	VOR	2104BO	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	CLUB	O	N	O	O	N	N	N	N	00:00:00	LS-IN-989137			arnaud.bizouard@gmail.com	0
+BOTTE	Vanessa	13 rue de la renardiere		21250	SEURRE		FRANCE	0650923844	F	945			1975	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	N	O	N	N	N	N	00:00:00	LS-IN-989205			patine21@orange.fr	0
+DRAPPIER	Gilles	51 rue de Gray		21000	DIJON		FRANCE	0667080336	M	946			1969	9	Master 1	V1	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	5 km	5,000	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		O	N	O	O	N	N	N	N	00:00:00	LS-IN-989185			g.drappier@yahoo.fr	0

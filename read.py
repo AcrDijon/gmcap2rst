@@ -80,7 +80,7 @@ def generateTable(headers, lines):
 
 filename = 'adultes.txt'
 filename = os.path.join(os.path.dirname(__file__), filename)
-header = (u'Nom', u'Prénom', u'Sexe', u'Licence', u'Naissance',
+header = (u'Nom', u'Prénom', u'Sexe', u'Dossard', u'Licence', u'Naissance',
           u'Catégorie', u'Club')
 five = []
 ten = []
@@ -92,8 +92,8 @@ with open(filename, 'rb') as csvfile:
         if index == 0:
             continue
 
-        line = row[0], row[1], row[2], row[4], row[6], row[7], row[9]
-        if row[-1] == u'5 km':
+        line = row[0], row[1], row[9], row[10], row[11], row[13], row[15], row[18]
+        if row[25] == u'5 km':
             five.append(line)
         else:
             ten.append(line)
@@ -108,7 +108,7 @@ ten = generateTable(header, ten)
 
 filename = 'enfants.txt'
 filename = os.path.join(os.path.dirname(__file__), filename)
-header = (u'Nom', u'Prénom', u'Sexe', u'Licence', u'Naissance',
+header = (u'Nom', u'Prénom', u'Sexe', u'Dossard', u'Licence', u'Naissance',
           u'Catégorie', u'Club')
 one = []
 two = []
@@ -120,8 +120,8 @@ with open(filename, 'rb') as csvfile:
         if index == 0:
             continue
 
-        line = row[0], row[1], row[2], row[4], row[6], row[8], row[9]
-        if row[-1] == u'1,22':
+        line = row[0], row[1], row[9], row[10], row[11], row[13], row[15], row[18]
+        if row[26] == u'1,220':
             one.append(line)
         else:
             two.append(line)

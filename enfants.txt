@@ -1,9 +1,32 @@
-Nom	Prénom	Sexe	Numéro	Licence	Type Licence	Naissance	Catégorie	Nom Catégorie	Club	Code Club	Course	Distance
-MATHIEU	Laura	F	1			2005	2	Poussin			Poussins	1,22
-BERLANGA	Romain	M	2			2005	2	Poussin			Poussins	1,22
-BORNEL	Augustin	M	3			2006	2	Poussin			Poussins	1,22
-DORMOY	Louis	M	101	1566230	COMP	2004	3	Benjamin	DIJON UC	21008	Benjamins Minimes	2,14
-DOUARE	Lilian	M	102	1686490	COMP	2001	4	Minime	AC CHENOVE	21005	Benjamins Minimes	2,14
-CHEVILLON	Zoé	F	103	A82580C	COMP	2001	4	Minime	CHENOVE TRIATHLON CLUB		Benjamins Minimes	2,14
-FANTON	Emma	F	104			2001	4	Minime			Benjamins Minimes	2,14
-FANTON	Zoé	F	105			2004	3	Benjamin			Benjamins Minimes	2,14
+Nom	Prénom	Adresse1	Adresse2	Code	Ville	Etat	Pays	Tel	Sexe	Numéro	Licence	Type Licence	Naissance	Catégorie	Nom Catégorie	Abbrev. Catégorie	Nation	Club	Code Club	Competition	Type Compet.	Ville Compet.	Code Ville Compet.	Date Compet.	Course	Distance	Temps	Nb.Secondes	Temps Arrondi	Nb.Secondes Arrondi	Nb.Heures Arrondi	Classement	Classement par Cat.	Classement par Sexe	Organisme	Payé	Invité	Certif Médical	Pris Départ	Abandon	Disqualifié	Qualifié	Envoi Classt	Handicap	ID	Sponsor	Palmarès	EMail	NbPassage 31
+MATHIEU	Laura								F	1			2005	2	Poussin	PO	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00				laurinette7471@aol.fr	0
+BERLANGA	Romain								M	2			2005	2	Poussin	PO	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	ALC FOOT LONGVIC	N	N	O	N	N	N	N	N	00:00:00				agnes.berlanga@laposte.net	0
+BORNEL	Augustin								M	3			2006	2	Poussin	PO	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+BAVEREL	Maxime								M	4			2006	2	Poussin	PO	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				sophiethibaut@hotmail.fr	0
+SENNEGON	Célia			21xxx					F	5	1814344	COMP	2006	2	Poussin	PO	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+MOULYS	Eléa			21xxx			FRANCE		F	6	1600441		2005	2	Poussin	PO	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+CASSARD	Marilou			21xxx			FRANCE		F	7	1517827		2006	2	Poussin	PO	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+BOUCHERIE	Ambre			21xxx					F	8	1760432		2006	2	Poussin	PO	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+GOURAPA	Maël			21xxx			FRANCE		M	9	1577956		2006	2	Poussin	PO	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+COLLARDEY	Samuel			21xxx					M	10	1814499		2005	2	Poussin	PO	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+DURAND	Théo			58xxx			France		M	11	1343699		2005	2	Poussin	PO	FRA	ESPERANCE ST LEGER-VIGNES	058005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				durandphilippe7555@neuf.fr	0
+PIQUARD	Louisa								F	12			2006	2	Poussin	PO	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00					0
+LAB	Louison								M	13			2005	2	Poussin	PO	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Poussins	1,220	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	N	N	N	N	N	N	00:00:00					0
+DORMOY	Louis			21xxx			FRANCE		M	51	1566230	COMP	2004	3	Benjamin	BE	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				bruno.dormoy@gmail.com	0
+DOUARE	Lilian								M	52	1686490	COMP	2001	4	Minime	MI	FRA	AC CHENOVE	021005	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				famille.douare@live.fr	0
+CHEVILLON	Zoé								F	53	A82580C	COMP	2001	4	Minime	MI	FRA	CHENOVE TRIATHLON CLUB		Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				mistercox.isa@free.fr	0
+FANTON	Emma								F	54			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				em.fanton@orange.fr	0
+FANTON	Zoé								F	55			2004	3	Benjamin	BE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				zoe.fanton@orange.fr	0
+SARADIN	Clément								M	56			2002	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				famille.saradin@free.fr	0
+GODFROY	Nathan								M	57			2002	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				pgodfroy@orange.fr	0
+DALANCON	Baptiste	32 Rue Durand		21540	BLAISY BAS		France		M	58	621618	COMP	2002	4	Minime	MI	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				abcd.dalancon@laposte.net	0
+DALANCON	Clement	32 Rue Durand		21540	BLAISY BAS		France		M	59	621617	COMP	2002	4	Minime	MI	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				abcd.dalancon@laposte.net	0
+NONIER	Mathis			21xxx			FRANCE		M	60	1600430	COMP	2002	4	Minime	MI	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+SENNEGON	Lucas			21xxx					M	61	1743185	COMP	2003	3	Benjamin	BE	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+DEVILLEBICHOT	Kevin			21xxx			FRANCE		M	62	1492852		2004	3	Benjamin	BE	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+NIJDAM	Léo			21xxx			FRANCE		M	63	1430218	COMP	2003	3	Benjamin	BE	FRA	DIJON UC	021008	Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+FLEURIET	Simon								M	64			2003	3	Benjamin	BE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00				fleuriet.sabrina	0
+POTEY	Maxime								M	65			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0
+BELLEGY	Thibault								M	66			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0
+LAB	Nikita								M	67			2002	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0
+FRONTIER	Géraldine								F	68			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0

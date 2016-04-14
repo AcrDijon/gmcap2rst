@@ -30,3 +30,5 @@ POTEY	Maxime								M	65			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dij
 BELLEGY	Thibault								M	66			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0
 LAB	Nikita								M	67			2002	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0
 FRONTIER	Géraldine								F	68			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0	AC VINGEANNE TEENAGER	N	N	N	N	N	N	N	N	00:00:00					0
+MATA	Alexis								M	69			2001	4	Minime	MI	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
+KOROLEV	Alexandra								F	70			2004	3	Benjamin	BE	FRA			Les Foulées du Lac Kir	CAP	Dijon	21000	16/04/2016	Benjamins Minimes	2,140	00:00:00.00	0,00	00:00:00	0	0,0000	0	0	0		N	N	O	N	N	N	N	N	00:00:00					0
